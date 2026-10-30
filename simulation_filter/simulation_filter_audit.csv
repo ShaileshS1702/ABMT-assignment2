@@ -1,0 +1,13 @@
+stage,count
+input_persons,28160
+invalid_home_coordinates,3220
+residents_inside_boundary,17780
+home_filter_disagreements_all_persons,0
+age_eligible_residents,16972
+at_home_all_day,2459
+review_persons,6
+selected_plan_activities_including_stages,170749
+non_stage_activities,80265
+trips,62485
+legs,152969
+invalid_activity_coordinates,0
