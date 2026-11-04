@@ -1,0 +1,2003 @@
+HHNR,WP,day_status,trip_count,at_home_all_day,has_outside_endpoint,has_unknown_endpoint,selection_status,retained
+100248,0.441949513436774,travelled,2,False,True,False,Excluded: outside endpoint,False
+100268,0.266305176157961,travelled,4,False,False,False,Retained: entirely within boundary,True
+100299,0.330363191718892,at home all day,0,True,False,False,Retained: entirely within boundary,True
+100343,0.311735252463741,travelled,2,False,False,False,Retained: entirely within boundary,True
+100377,0.545209706707634,travelled,3,False,False,False,Retained: entirely within boundary,True
+100395,0.578549876943753,travelled,5,False,False,False,Retained: entirely within boundary,True
+100497,0.269892451990751,travelled,3,False,False,False,Retained: entirely within boundary,True
+100769,0.295452620886183,travelled,11,False,False,False,Retained: entirely within boundary,True
+100950,0.286877377970327,travelled,7,False,False,False,Retained: entirely within boundary,True
+100961,0.416118188942275,travelled,1,False,False,False,Retained: entirely within boundary,True
+101299,0.335308978743636,travelled,6,False,False,False,Retained: entirely within boundary,True
+101729,0.344790761182301,travelled,4,False,False,False,Retained: entirely within boundary,True
+102285,0.28902919685624,travelled,3,False,False,False,Retained: entirely within boundary,True
+102290,0.539658537753676,travelled,3,False,False,False,Retained: entirely within boundary,True
+102322,0.829258946845535,travelled,4,False,False,False,Retained: entirely within boundary,True
+102343,0.2261943167677,travelled,3,False,False,False,Retained: entirely within boundary,True
+102352,0.381452011563245,travelled,2,False,False,False,Retained: entirely within boundary,True
+102384,0.281071692023747,travelled,4,False,False,False,Retained: entirely within boundary,True
+102451,0.311490263314535,travelled,8,False,False,False,Retained: entirely within boundary,True
+102910,0.30316700525494,travelled,6,False,False,False,Retained: entirely within boundary,True
+103165,0.717976345491625,travelled,5,False,False,False,Retained: entirely within boundary,True
+103234,0.435294803751683,travelled,5,False,False,False,Retained: entirely within boundary,True
+103259,0.466887840862731,travelled,4,False,False,False,Retained: entirely within boundary,True
+103270,0.338031435511672,travelled,8,False,False,False,Retained: entirely within boundary,True
+103447,1.0924722967765,travelled,8,False,False,False,Retained: entirely within boundary,True
+103569,0.962987912566672,travelled,4,False,False,False,Retained: entirely within boundary,True
+103753,0.67902665450836,travelled,4,False,False,False,Retained: entirely within boundary,True
+103775,0.354183201945604,travelled,2,False,False,False,Retained: entirely within boundary,True
+103845,0.19451041403248,travelled,3,False,False,False,Retained: entirely within boundary,True
+103998,0.402077754185658,travelled,4,False,True,False,Excluded: outside endpoint,False
+104043,0.391390887893838,travelled,8,False,False,False,Retained: entirely within boundary,True
+104256,0.469685705881161,travelled,5,False,False,False,Retained: entirely within boundary,True
+104425,0.2085011106246,travelled,4,False,False,False,Retained: entirely within boundary,True
+104668,0.388143686456906,travelled,3,False,False,False,Retained: entirely within boundary,True
+104723,0.231637727541803,travelled,4,False,False,False,Retained: entirely within boundary,True
+104887,0.293703708634897,travelled,1,False,False,False,Retained: entirely within boundary,True
+105073,0.343470782411278,travelled,1,False,False,False,Retained: entirely within boundary,True
+105087,0.556223735358046,travelled,5,False,False,False,Retained: entirely within boundary,True
+105507,0.367876853291912,travelled,4,False,False,False,Retained: entirely within boundary,True
+105617,0.313512378806781,travelled,7,False,False,False,Retained: entirely within boundary,True
+105636,0.283417533940253,travelled,11,False,False,False,Retained: entirely within boundary,True
+105760,0.34357749381868,at home all day,0,True,False,False,Retained: entirely within boundary,True
+105822,0.470197097147847,travelled,2,False,False,False,Retained: entirely within boundary,True
+105901,0.454672940646399,travelled,7,False,False,False,Retained: entirely within boundary,True
+105939,0.667221584517437,travelled,5,False,False,False,Retained: entirely within boundary,True
+105949,0.338188809796791,travelled,2,False,False,False,Retained: entirely within boundary,True
+105972,0.454672940646399,travelled,3,False,True,False,Excluded: outside endpoint,False
+106375,0.365879803116694,travelled,5,False,True,False,Excluded: outside endpoint,False
+106409,0.325747968957979,travelled,7,False,False,False,Retained: entirely within boundary,True
+106690,0.504157681602063,travelled,2,False,False,False,Retained: entirely within boundary,True
+107009,0.469725284819906,travelled,8,False,True,False,Excluded: outside endpoint,False
+107193,0.344566026205976,travelled,4,False,False,False,Retained: entirely within boundary,True
+107265,0.381452011563245,travelled,6,False,False,False,Retained: entirely within boundary,True
+107291,0.223344919018167,travelled,5,False,False,False,Retained: entirely within boundary,True
+107399,0.579183683378703,travelled,1,False,False,False,Retained: entirely within boundary,True
+107465,0.376942465432753,travelled,6,False,True,False,Excluded: outside endpoint,False
+107538,0.437911720578423,travelled,4,False,False,False,Retained: entirely within boundary,True
+107573,0.454672940646399,travelled,6,False,True,False,Excluded: outside endpoint,False
+107653,0.254975765870422,travelled,6,False,False,False,Retained: entirely within boundary,True
+107680,0.756096412099152,travelled,7,False,False,False,Retained: entirely within boundary,True
+108037,0.272374941798473,travelled,3,False,False,False,Retained: entirely within boundary,True
+108314,0.693845650812764,travelled,4,False,False,False,Retained: entirely within boundary,True
+108505,0.35756522054471,travelled,6,False,False,False,Retained: entirely within boundary,True
+108648,0.231378413912724,travelled,7,False,False,False,Retained: entirely within boundary,True
+108663,0.285024303510414,travelled,4,False,False,False,Retained: entirely within boundary,True
+108721,0.231637727541803,travelled,4,False,False,False,Retained: entirely within boundary,True
+108802,0.306079758194284,travelled,2,False,False,False,Retained: entirely within boundary,True
+108826,0.392836854141853,travelled,6,False,False,False,Retained: entirely within boundary,True
+109089,0.355583106181892,travelled,7,False,False,False,Retained: entirely within boundary,True
+109098,0.375312401244131,travelled,2,False,False,False,Retained: entirely within boundary,True
+109156,0.37674646219214,travelled,4,False,False,False,Retained: entirely within boundary,True
+109667,0.330363191718892,travelled,2,False,False,False,Retained: entirely within boundary,True
+109718,0.293539972735163,travelled,4,False,True,False,Excluded: outside endpoint,False
+109943,0.491421339188734,travelled,3,False,True,False,Excluded: outside endpoint,False
+109975,0.291439787883502,travelled,8,False,True,False,Excluded: outside endpoint,False
+110067,0.314437948281101,travelled,6,False,False,False,Retained: entirely within boundary,True
+110075,0.291020337115886,travelled,3,False,False,False,Retained: entirely within boundary,True
+110253,0.534167663521955,travelled,2,False,False,False,Retained: entirely within boundary,True
+110530,0.266234478268697,travelled,2,False,False,False,Retained: entirely within boundary,True
+110590,0.306079758194284,travelled,5,False,False,False,Retained: entirely within boundary,True
+110771,0.268111963938854,travelled,4,False,False,False,Retained: entirely within boundary,True
+110820,0.2085011106246,at home all day,0,True,False,False,Retained: entirely within boundary,True
+110857,0.447384707797518,travelled,3,False,True,False,Excluded: outside endpoint,False
+111087,0.309806539853489,at home all day,0,True,False,False,Retained: entirely within boundary,True
+111381,0.600190973213242,travelled,2,False,False,False,Retained: entirely within boundary,True
+111701,0.237909684938286,travelled,5,False,True,False,Excluded: outside endpoint,False
+111721,0.823007770878783,travelled,4,False,False,False,Retained: entirely within boundary,True
+111901,0.313512378806781,travelled,4,False,False,False,Retained: entirely within boundary,True
+111954,0.531107791598826,at home all day,0,True,False,False,Retained: entirely within boundary,True
+112212,0.306079758194284,travelled,4,False,False,False,Retained: entirely within boundary,True
+112285,0.190900392790078,travelled,4,False,False,False,Retained: entirely within boundary,True
+112542,0.308644388112916,travelled,7,False,True,False,Excluded: outside endpoint,False
+112550,0.638872828256901,travelled,5,False,False,False,Retained: entirely within boundary,True
+112569,0.580572045580084,travelled,6,False,False,False,Retained: entirely within boundary,True
+112743,0.22926446632625,travelled,4,False,False,False,Retained: entirely within boundary,True
+112786,0.884277840717652,travelled,4,False,False,False,Retained: entirely within boundary,True
+112985,0.593143382473409,travelled,3,False,False,False,Retained: entirely within boundary,True
+113007,0.781410369340117,travelled,1,False,False,False,Retained: entirely within boundary,True
+113072,0.367406130807139,travelled,5,False,False,False,Retained: entirely within boundary,True
+113189,0.430634452514349,travelled,5,False,False,False,Retained: entirely within boundary,True
+113411,0.579867314548833,travelled,5,False,False,False,Retained: entirely within boundary,True
+113480,0.42185738453154,travelled,1,False,False,False,Retained: entirely within boundary,True
+113571,0.238461393279975,travelled,6,False,False,False,Retained: entirely within boundary,True
+113584,0.41895885475155,at home all day,0,True,False,False,Retained: entirely within boundary,True
+113616,0.210423608369867,travelled,4,False,False,False,Retained: entirely within boundary,True
+113658,0.269547668415901,travelled,4,False,False,False,Retained: entirely within boundary,True
+113894,0.612821436287614,travelled,2,False,False,False,Retained: entirely within boundary,True
+113940,0.440740021675429,travelled,3,False,False,False,Retained: entirely within boundary,True
+114029,0.338175273225785,travelled,4,False,False,False,Retained: entirely within boundary,True
+114139,0.266027759165964,travelled,2,False,False,False,Retained: entirely within boundary,True
+114503,0.442097073957036,travelled,4,False,False,False,Retained: entirely within boundary,True
+114644,0.461368440640968,travelled,5,False,True,False,Excluded: outside endpoint,False
+114724,0.400748449989397,travelled,4,False,True,False,Excluded: outside endpoint,False
+114797,0.321269521164442,travelled,3,False,False,False,Retained: entirely within boundary,True
+115127,0.210423608369867,travelled,3,False,False,False,Retained: entirely within boundary,True
+115218,0.546451224161696,travelled,2,False,False,False,Retained: entirely within boundary,True
+115478,0.291439787883502,travelled,5,False,True,False,Excluded: outside endpoint,False
+115479,0.276570319637696,travelled,2,False,False,False,Retained: entirely within boundary,True
+115997,0.324698013413699,travelled,6,False,False,False,Retained: entirely within boundary,True
+116010,0.235687867619065,travelled,2,False,False,False,Retained: entirely within boundary,True
+116358,0.406679938206949,travelled,7,False,False,False,Retained: entirely within boundary,True
+116424,0.191459404003189,travelled,6,False,False,False,Retained: entirely within boundary,True
+116435,0.237833388900574,travelled,5,False,False,False,Retained: entirely within boundary,True
+116500,0.226187761657205,travelled,8,False,False,False,Retained: entirely within boundary,True
+116536,0.205992970817844,travelled,3,False,True,False,Excluded: outside endpoint,False
+116701,0.643677984052524,travelled,2,False,False,False,Retained: entirely within boundary,True
+116831,0.557308356610049,travelled,7,False,True,False,Excluded: outside endpoint,False
+116845,0.210423608369867,travelled,9,False,False,False,Retained: entirely within boundary,True
+116882,0.50948332596969,travelled,7,False,False,False,Retained: entirely within boundary,True
+117384,0.437304166202122,travelled,5,False,True,False,Excluded: outside endpoint,False
+117446,0.306976047690792,travelled,6,False,True,False,Excluded: outside endpoint,False
+117575,0.378289764222021,travelled,3,False,False,False,Retained: entirely within boundary,True
+117822,0.365879803116694,travelled,1,False,False,False,Retained: entirely within boundary,True
+118171,0.313119550870908,travelled,2,False,False,False,Retained: entirely within boundary,True
+118497,0.319441053602611,travelled,3,False,False,False,Retained: entirely within boundary,True
+118545,0.476360299439839,travelled,6,False,False,False,Retained: entirely within boundary,True
+118656,0.573365144751588,travelled,1,False,False,False,Retained: entirely within boundary,True
+118749,0.600298572590625,travelled,6,False,True,False,Excluded: outside endpoint,False
+118884,0.530038248325768,travelled,2,False,True,False,Excluded: outside endpoint,False
+118981,0.193224767609185,travelled,6,False,False,False,Retained: entirely within boundary,True
+119116,0.99157891648868,travelled,3,False,False,False,Retained: entirely within boundary,True
+119658,0.288777100272412,travelled,5,False,False,False,Retained: entirely within boundary,True
+119696,0.270825873540962,travelled,2,False,False,False,Retained: entirely within boundary,True
+119809,0.680496676360802,travelled,2,False,False,False,Retained: entirely within boundary,True
+119861,0.32458601285003,travelled,1,False,False,False,Retained: entirely within boundary,True
+120006,0.191459404003189,travelled,5,False,False,False,Retained: entirely within boundary,True
+120323,0.910698292560015,travelled,5,False,True,False,Excluded: outside endpoint,False
+120444,0.228990752210701,travelled,2,False,False,False,Retained: entirely within boundary,True
+120562,0.336905318336126,travelled,4,False,False,False,Retained: entirely within boundary,True
+120731,0.23465660141974,travelled,3,False,True,False,Excluded: outside endpoint,False
+120751,0.310616654639298,travelled,1,False,False,False,Retained: entirely within boundary,True
+120789,0.413493138557565,travelled,9,False,False,False,Retained: entirely within boundary,True
+121050,0.299050008100479,travelled,10,False,True,False,Excluded: outside endpoint,False
+121106,0.368119445984681,travelled,5,False,False,False,Retained: entirely within boundary,True
+121120,0.25908590803487,travelled,2,False,False,False,Retained: entirely within boundary,True
+121167,0.308412382288062,travelled,6,False,False,False,Retained: entirely within boundary,True
+121878,0.313512378806781,travelled,4,False,True,False,Excluded: outside endpoint,False
+122281,0.316693032484013,at home all day,0,True,False,False,Retained: entirely within boundary,True
+122323,0.319441053602611,travelled,2,False,False,False,Retained: entirely within boundary,True
+122470,0.330100463376095,travelled,4,False,False,False,Retained: entirely within boundary,True
+122506,0.3271259156799,travelled,2,False,False,False,Retained: entirely within boundary,True
+122591,0.637581276558156,travelled,6,False,False,False,Retained: entirely within boundary,True
+122672,0.425435569161722,travelled,5,False,False,False,Retained: entirely within boundary,True
+122786,0.464097043243222,travelled,2,False,False,False,Retained: entirely within boundary,True
+122938,0.454672940646399,travelled,2,False,True,False,Excluded: outside endpoint,False
+123012,0.83333765764081,travelled,3,False,False,False,Retained: entirely within boundary,True
+123173,0.366113283324294,travelled,3,False,False,False,Retained: entirely within boundary,True
+123215,0.323872150628356,travelled,4,False,False,False,Retained: entirely within boundary,True
+123221,0.657104352365609,travelled,2,False,False,False,Retained: entirely within boundary,True
+123474,0.269547668415901,travelled,3,False,False,False,Retained: entirely within boundary,True
+123488,0.336905318336126,travelled,4,False,True,False,Excluded: outside endpoint,False
+123509,0.404786709457762,travelled,5,False,False,False,Retained: entirely within boundary,True
+123554,0.192733304347377,travelled,3,False,False,False,Retained: entirely within boundary,True
+123575,0.291585846882651,at home all day,0,True,False,False,Retained: entirely within boundary,True
+123650,0.287760936643432,travelled,2,False,False,False,Retained: entirely within boundary,True
+123900,0.648615153248966,at home all day,0,True,False,False,Retained: entirely within boundary,True
+124132,0.357681630062515,travelled,2,False,False,False,Retained: entirely within boundary,True
+124269,0.261474826120416,travelled,7,False,False,False,Retained: entirely within boundary,True
+124333,0.338031435511672,travelled,3,False,False,False,Retained: entirely within boundary,True
+124611,0.468719323494013,travelled,4,False,False,False,Retained: entirely within boundary,True
+124633,0.300329911302631,travelled,8,False,False,False,Retained: entirely within boundary,True
+124690,0.381900896514112,travelled,3,False,False,False,Retained: entirely within boundary,True
+124741,0.530813797049229,travelled,3,False,False,False,Retained: entirely within boundary,True
+124759,0.334404313692286,travelled,6,False,False,False,Retained: entirely within boundary,True
+124925,0.326113045745252,travelled,4,False,False,False,Retained: entirely within boundary,True
+125028,0.466006051362709,travelled,4,False,False,False,Retained: entirely within boundary,True
+125144,0.613725300545035,travelled,6,False,False,False,Retained: entirely within boundary,True
+125292,0.449558266697502,travelled,2,False,False,False,Retained: entirely within boundary,True
+125590,0.494618815259365,travelled,3,False,True,False,Excluded: outside endpoint,False
+125664,0.356432884288291,travelled,5,False,False,False,Retained: entirely within boundary,True
+125842,0.456312132526145,travelled,4,False,True,False,Excluded: outside endpoint,False
+125935,0.459979998644746,travelled,1,False,False,False,Retained: entirely within boundary,True
+126206,0.365879803116694,travelled,4,False,True,False,Excluded: outside endpoint,False
+126777,0.60826586784813,travelled,2,False,True,False,Excluded: outside endpoint,False
+126967,0.322771830773207,at home all day,0,True,False,False,Retained: entirely within boundary,True
+126977,0.536591697966915,travelled,4,False,True,False,Excluded: outside endpoint,False
+127259,0.434617740080448,travelled,2,False,False,False,Retained: entirely within boundary,True
+127450,0.439096953551203,travelled,3,False,False,False,Retained: entirely within boundary,True
+128113,0.34934564196505,at home all day,0,True,False,False,Retained: entirely within boundary,True
+128324,0.269383272460354,travelled,3,False,False,False,Retained: entirely within boundary,True
+128428,0.2803822577194,travelled,4,False,False,False,Retained: entirely within boundary,True
+128560,0.584333846668458,travelled,4,False,False,False,Retained: entirely within boundary,True
+128758,0.620421686514439,travelled,4,False,False,False,Retained: entirely within boundary,True
+129063,0.324698013413699,travelled,4,False,False,False,Retained: entirely within boundary,True
+129171,0.348289104589456,travelled,7,False,False,False,Retained: entirely within boundary,True
+129329,0.882841070938503,travelled,5,False,True,False,Excluded: outside endpoint,False
+129642,0.353599222596711,travelled,7,False,True,False,Excluded: outside endpoint,False
+129702,0.669322379779744,travelled,5,False,False,False,Retained: entirely within boundary,True
+129706,0.296246576714579,travelled,5,False,False,False,Retained: entirely within boundary,True
+129837,0.335343814324751,travelled,6,False,False,False,Retained: entirely within boundary,True
+129891,0.415051670376215,travelled,4,False,False,False,Retained: entirely within boundary,True
+129921,0.387718959138877,travelled,4,False,True,False,Excluded: outside endpoint,False
+130503,0.390456729520606,travelled,2,False,False,False,Retained: entirely within boundary,True
+130567,0.745792972365622,travelled,6,False,False,False,Retained: entirely within boundary,True
+130590,0.406307395042932,travelled,6,False,False,False,Retained: entirely within boundary,True
+130642,0.636402385460182,travelled,8,False,False,False,Retained: entirely within boundary,True
+130851,0.47453257937329,at home all day,0,True,False,False,Retained: entirely within boundary,True
+131095,0.261967999268537,travelled,4,False,False,False,Retained: entirely within boundary,True
+131349,0.432005212108345,travelled,6,False,False,False,Retained: entirely within boundary,True
+131688,0.354639161495077,travelled,1,False,False,False,Retained: entirely within boundary,True
+131912,0.293539972735163,travelled,2,False,False,False,Retained: entirely within boundary,True
+131970,0.345050076935469,travelled,6,False,False,False,Retained: entirely within boundary,True
+132096,0.30587916455067,travelled,2,False,False,False,Retained: entirely within boundary,True
+132150,0.536591697966915,travelled,2,False,True,False,Excluded: outside endpoint,False
+132303,0.362926109251848,travelled,7,False,True,False,Excluded: outside endpoint,False
+132402,0.296246576714579,travelled,4,False,False,False,Retained: entirely within boundary,True
+132413,0.227592451876098,at home all day,0,True,False,False,Retained: entirely within boundary,True
+132587,0.381294600139984,travelled,4,False,False,False,Retained: entirely within boundary,True
+132669,0.267602585974964,travelled,2,False,False,False,Retained: entirely within boundary,True
+132757,0.291439787883502,travelled,4,False,False,False,Retained: entirely within boundary,True
+132784,0.776838716005272,travelled,2,False,False,False,Retained: entirely within boundary,True
+132949,0.630589927274931,travelled,3,False,False,False,Retained: entirely within boundary,True
+133121,0.428876800562631,travelled,5,False,False,False,Retained: entirely within boundary,True
+133142,0.504001261353187,travelled,3,False,False,False,Retained: entirely within boundary,True
+133205,0.643677984052524,travelled,3,False,False,False,Retained: entirely within boundary,True
+133246,0.2085011106246,travelled,8,False,False,False,Retained: entirely within boundary,True
+133374,0.313182376616358,travelled,4,False,False,False,Retained: entirely within boundary,True
+133817,0.306852813539885,travelled,7,False,False,False,Retained: entirely within boundary,True
+133837,0.285024303510414,travelled,3,False,False,False,Retained: entirely within boundary,True
+133844,0.931122947203306,travelled,2,False,False,False,Retained: entirely within boundary,True
+133908,0.338400716498277,travelled,2,False,False,False,Retained: entirely within boundary,True
+134165,0.311490263314535,travelled,4,False,False,False,Retained: entirely within boundary,True
+134304,0.491103558207977,travelled,2,False,False,False,Retained: entirely within boundary,True
+134335,0.266027759165964,travelled,4,False,False,False,Retained: entirely within boundary,True
+134643,0.539080528931402,travelled,6,False,False,False,Retained: entirely within boundary,True
+134693,0.4508721963124,travelled,2,False,False,False,Retained: entirely within boundary,True
+134709,0.380100575142055,travelled,6,False,True,False,Excluded: outside endpoint,False
+134912,0.593614879364411,travelled,2,False,False,False,Retained: entirely within boundary,True
+134955,0.585384226726815,travelled,3,False,False,False,Retained: entirely within boundary,True
+135178,0.287201931487138,travelled,2,False,False,False,Retained: entirely within boundary,True
+135222,0.244744858691761,travelled,6,False,False,False,Retained: entirely within boundary,True
+135402,0.338286507081243,travelled,6,False,False,False,Retained: entirely within boundary,True
+135484,0.34586479371417,travelled,5,False,False,False,Retained: entirely within boundary,True
+135802,0.336344574542604,at home all day,0,True,False,False,Retained: entirely within boundary,True
+136303,0.553676985849766,travelled,4,False,False,False,Retained: entirely within boundary,True
+136506,0.528360350028953,travelled,2,False,True,False,Excluded: outside endpoint,False
+136546,0.344683672947342,travelled,3,False,True,False,Excluded: outside endpoint,False
+136626,1.28606023862263,travelled,7,False,False,False,Retained: entirely within boundary,True
+136961,0.277177329911364,at home all day,0,True,False,False,Retained: entirely within boundary,True
+137048,0.297586000665471,at home all day,0,True,False,False,Retained: entirely within boundary,True
+137316,0.367876853291912,travelled,1,False,True,False,Excluded: outside endpoint,False
+137425,0.324601710345517,at home all day,0,True,False,False,Retained: entirely within boundary,True
+137471,0.696401426377264,travelled,5,False,True,False,Excluded: outside endpoint,False
+137561,0.334943071626863,travelled,5,False,False,False,Retained: entirely within boundary,True
+137859,0.353091519607756,travelled,3,False,True,False,Excluded: outside endpoint,False
+137885,0.366405894113858,travelled,4,False,False,False,Retained: entirely within boundary,True
+137948,0.427023627858015,travelled,2,False,False,False,Retained: entirely within boundary,True
+138356,0.316035715678265,travelled,2,False,True,False,Excluded: outside endpoint,False
+138358,0.236018112017425,travelled,2,False,False,False,Retained: entirely within boundary,True
+138432,0.373088539363921,travelled,7,False,False,False,Retained: entirely within boundary,True
+138568,0.30881654921968,travelled,1,False,True,False,Excluded: outside endpoint,False
+138734,0.22926446632625,travelled,6,False,False,False,Retained: entirely within boundary,True
+138802,0.220055234850402,travelled,5,False,False,False,Retained: entirely within boundary,True
+138962,0.257231191293311,travelled,4,False,False,False,Retained: entirely within boundary,True
+139029,0.409848719883367,at home all day,0,True,False,False,Retained: entirely within boundary,True
+139460,0.5745694603137,travelled,9,False,True,False,Excluded: outside endpoint,False
+139492,0.268760659964177,travelled,2,False,False,False,Retained: entirely within boundary,True
+139870,0.299050008100479,travelled,5,False,False,False,Retained: entirely within boundary,True
+140209,0.311048199825608,travelled,2,False,False,False,Retained: entirely within boundary,True
+140249,0.50948332596969,travelled,8,False,False,False,Retained: entirely within boundary,True
+140478,0.330363191718892,travelled,2,False,False,False,Retained: entirely within boundary,True
+141039,0.220055234850402,travelled,6,False,False,False,Retained: entirely within boundary,True
+141083,0.515868259870267,travelled,6,False,False,False,Retained: entirely within boundary,True
+141349,0.2545816264169,travelled,3,False,False,False,Retained: entirely within boundary,True
+141557,0.336905318336126,travelled,2,False,False,False,Retained: entirely within boundary,True
+141813,0.203327148556153,travelled,5,False,False,False,Retained: entirely within boundary,True
+141934,0.36475618836175,travelled,7,False,False,False,Retained: entirely within boundary,True
+141950,0.381452011563245,travelled,4,False,False,False,Retained: entirely within boundary,True
+141994,0.210423608369867,at home all day,0,True,False,False,Retained: entirely within boundary,True
+142032,0.448909021494797,travelled,6,False,False,False,Retained: entirely within boundary,True
+142393,0.347861850665852,at home all day,0,True,False,False,Retained: entirely within boundary,True
+142761,0.669214972747395,travelled,3,False,False,False,Retained: entirely within boundary,True
+142949,0.36475618836175,travelled,6,False,True,False,Excluded: outside endpoint,False
+142994,0.400621389603662,travelled,3,False,True,False,Excluded: outside endpoint,False
+143114,0.357232096881241,travelled,3,False,False,False,Retained: entirely within boundary,True
+143359,0.391293946449539,travelled,3,False,False,False,Retained: entirely within boundary,True
+143422,0.237909684938286,travelled,2,False,False,False,Retained: entirely within boundary,True
+144108,0.786512594685265,travelled,2,False,False,False,Retained: entirely within boundary,True
+144214,0.375312401244131,travelled,4,False,False,False,Retained: entirely within boundary,True
+144379,0.365879803116694,travelled,4,False,False,False,Retained: entirely within boundary,True
+144389,0.339713495907557,travelled,2,False,False,False,Retained: entirely within boundary,True
+144718,0.34863689399293,travelled,2,False,True,False,Excluded: outside endpoint,False
+145021,0.299868166308869,at home all day,0,True,False,False,Retained: entirely within boundary,True
+145143,0.23465660141974,at home all day,0,True,False,False,Retained: entirely within boundary,True
+145226,0.367582882806903,travelled,13,False,True,False,Excluded: outside endpoint,False
+145394,0.402009800941292,travelled,5,False,False,False,Retained: entirely within boundary,True
+145763,0.290414254653182,travelled,2,False,False,False,Retained: entirely within boundary,True
+145870,0.390705411717146,at home all day,0,True,False,False,Retained: entirely within boundary,True
+146053,0.750715161655003,travelled,10,False,False,False,Retained: entirely within boundary,True
+146082,1.14243928670292,travelled,5,False,False,False,Retained: entirely within boundary,True
+146093,0.294526967174829,travelled,2,False,False,False,Retained: entirely within boundary,True
+146306,0.313512378806781,travelled,2,False,False,False,Retained: entirely within boundary,True
+146346,0.24464381984377,travelled,4,False,True,False,Excluded: outside endpoint,False
+146430,0.275396338145759,travelled,7,False,False,False,Retained: entirely within boundary,True
+146530,0.321269521164442,travelled,4,False,False,False,Retained: entirely within boundary,True
+146532,0.414369849910107,at home all day,0,True,False,False,Retained: entirely within boundary,True
+146564,0.5409522590831,travelled,2,False,False,False,Retained: entirely within boundary,True
+146863,0.207009351699885,travelled,4,False,False,False,Retained: entirely within boundary,True
+147040,0.500068311280054,travelled,3,False,True,False,Excluded: outside endpoint,False
+147052,0.318449495918444,travelled,6,False,False,False,Retained: entirely within boundary,True
+147159,0.422349474496137,at home all day,0,True,False,False,Retained: entirely within boundary,True
+147206,0.226904869937764,travelled,2,False,False,False,Retained: entirely within boundary,True
+147387,0.321620490669873,travelled,4,False,False,False,Retained: entirely within boundary,True
+147458,0.341405699325207,travelled,6,False,False,False,Retained: entirely within boundary,True
+147475,0.368397221348192,travelled,4,False,True,False,Excluded: outside endpoint,False
+148348,0.390839484088917,travelled,7,False,False,False,Retained: entirely within boundary,True
+148764,0.34127701146793,travelled,3,False,False,False,Retained: entirely within boundary,True
+148917,0.371331585551042,travelled,8,False,False,False,Retained: entirely within boundary,True
+148951,0.432788097151577,travelled,5,False,False,False,Retained: entirely within boundary,True
+149094,0.209859662442964,at home all day,0,True,False,False,Retained: entirely within boundary,True
+149246,0.269547668415901,travelled,6,False,False,False,Retained: entirely within boundary,True
+149627,0.446395470876298,travelled,5,False,False,False,Retained: entirely within boundary,True
+149796,0.437304166202122,travelled,3,False,False,False,Retained: entirely within boundary,True
+149834,0.439096953551203,travelled,4,False,False,False,Retained: entirely within boundary,True
+149883,0.460237550629471,travelled,2,False,True,False,Excluded: outside endpoint,False
+149945,0.985021329844202,travelled,3,False,False,False,Retained: entirely within boundary,True
+149958,0.475342638225055,travelled,6,False,False,False,Retained: entirely within boundary,True
+150106,0.508806299555395,travelled,4,False,False,False,Retained: entirely within boundary,True
+150149,0.519737777528106,travelled,9,False,False,False,Retained: entirely within boundary,True
+150151,0.431323428968376,travelled,2,False,False,False,Retained: entirely within boundary,True
+150260,0.376485568284587,travelled,6,False,False,False,Retained: entirely within boundary,True
+150415,0.774183014268166,at home all day,0,True,False,False,Retained: entirely within boundary,True
+150503,0.403055468604029,travelled,5,False,False,False,Retained: entirely within boundary,True
+150880,0.561485223679554,travelled,5,False,False,False,Retained: entirely within boundary,True
+150893,0.433504426244989,travelled,3,False,False,False,Retained: entirely within boundary,True
+151126,0.522690407699481,travelled,6,False,True,False,Excluded: outside endpoint,False
+151327,0.510544110276844,at home all day,0,True,False,False,Retained: entirely within boundary,True
+151475,0.231378413912724,travelled,2,False,False,False,Retained: entirely within boundary,True
+151483,0.288777100272412,travelled,6,False,False,False,Retained: entirely within boundary,True
+151522,0.737674401106153,travelled,4,False,True,False,Excluded: outside endpoint,False
+151820,0.485693153728786,travelled,2,False,False,False,Retained: entirely within boundary,True
+151851,0.453401970395657,travelled,7,False,False,False,Retained: entirely within boundary,True
+152028,0.674612237539284,travelled,4,False,False,False,Retained: entirely within boundary,True
+152576,0.232512703258139,travelled,3,False,False,False,Retained: entirely within boundary,True
+152801,0.767054887687878,travelled,6,False,False,False,Retained: entirely within boundary,True
+152984,0.920105127269101,travelled,10,False,False,False,Retained: entirely within boundary,True
+153110,0.390966726430363,travelled,11,False,False,False,Retained: entirely within boundary,True
+153111,0.387261838013507,travelled,5,False,False,False,Retained: entirely within boundary,True
+153153,0.272033049828112,travelled,2,False,False,False,Retained: entirely within boundary,True
+153190,0.491103558207977,travelled,5,False,False,False,Retained: entirely within boundary,True
+153347,0.371603022470455,travelled,4,False,False,False,Retained: entirely within boundary,True
+153351,0.745792972365622,travelled,7,False,False,False,Retained: entirely within boundary,True
+153553,0.584430284011451,travelled,2,False,False,False,Retained: entirely within boundary,True
+153580,0.237909684938286,travelled,4,False,False,False,Retained: entirely within boundary,True
+153659,0.370578819146074,travelled,7,False,False,False,Retained: entirely within boundary,True
+153845,0.415165152536178,travelled,2,False,False,False,Retained: entirely within boundary,True
+153867,0.450345692276843,travelled,2,False,True,False,Excluded: outside endpoint,False
+153901,0.277177329911364,travelled,2,False,True,False,Excluded: outside endpoint,False
+154014,0.346862448871473,travelled,2,False,False,False,Retained: entirely within boundary,True
+154084,0.310616654639298,travelled,4,False,False,False,Retained: entirely within boundary,True
+154110,0.349865561952255,travelled,2,False,False,False,Retained: entirely within boundary,True
+154345,0.353794349525518,travelled,2,False,False,False,Retained: entirely within boundary,True
+154367,0.776255197173891,travelled,4,False,False,False,Retained: entirely within boundary,True
+154517,0.489272509458533,travelled,3,False,False,False,Retained: entirely within boundary,True
+155242,0.792571990600673,travelled,2,False,False,False,Retained: entirely within boundary,True
+155602,0.853567121212349,travelled,4,False,False,False,Retained: entirely within boundary,True
+155842,0.686648124805549,travelled,5,False,False,False,Retained: entirely within boundary,True
+156000,0.334943071626863,travelled,7,False,False,False,Retained: entirely within boundary,True
+156187,0.601522913291371,travelled,4,False,False,False,Retained: entirely within boundary,True
+156632,0.400621389603662,travelled,5,False,False,False,Retained: entirely within boundary,True
+156750,0.215421795691172,travelled,12,False,False,False,Retained: entirely within boundary,True
+156866,0.360555314328437,travelled,5,False,False,False,Retained: entirely within boundary,True
+156970,0.562178645668777,travelled,5,False,False,False,Retained: entirely within boundary,True
+157725,0.439386511623139,travelled,4,False,False,False,Retained: entirely within boundary,True
+157888,0.558237804796843,travelled,4,False,True,False,Excluded: outside endpoint,False
+158066,0.326129558329393,travelled,5,False,False,False,Retained: entirely within boundary,True
+158132,0.339244087033363,travelled,2,False,False,False,Retained: entirely within boundary,True
+158194,0.364344993205211,travelled,2,False,True,False,Excluded: outside endpoint,False
+158260,0.311490263314535,travelled,4,False,False,False,Retained: entirely within boundary,True
+158405,0.297545060494672,travelled,4,False,False,False,Retained: entirely within boundary,True
+158508,0.3646589909562,at home all day,0,True,False,False,Retained: entirely within boundary,True
+158568,0.284560919911566,travelled,5,False,False,False,Retained: entirely within boundary,True
+158932,0.616406213553886,travelled,6,False,False,False,Retained: entirely within boundary,True
+158944,0.54212004310745,travelled,6,False,False,False,Retained: entirely within boundary,True
+159178,0.261302512805127,travelled,3,False,False,False,Retained: entirely within boundary,True
+159206,0.798370218376634,travelled,4,False,False,False,Retained: entirely within boundary,True
+159266,0.377526096643728,travelled,8,False,False,False,Retained: entirely within boundary,True
+159593,0.472822656931862,at home all day,0,True,False,False,Retained: entirely within boundary,True
+159765,0.409443591450099,at home all day,0,True,False,False,Retained: entirely within boundary,True
+159946,0.550282167735711,travelled,10,False,False,False,Retained: entirely within boundary,True
+159987,0.513211328974125,at home all day,0,True,False,False,Retained: entirely within boundary,True
+160123,0.374820360707149,at home all day,0,True,False,False,Retained: entirely within boundary,True
+160584,0.469596789766869,travelled,8,False,False,False,Retained: entirely within boundary,True
+160675,0.680993288030258,travelled,2,False,False,False,Retained: entirely within boundary,True
+160768,0.332280005411278,travelled,2,False,True,False,Excluded: outside endpoint,False
+160896,0.502726231744149,travelled,5,False,True,False,Excluded: outside endpoint,False
+161250,0.489597863700364,travelled,7,False,True,False,Excluded: outside endpoint,False
+161292,0.266305176157961,travelled,4,False,False,False,Retained: entirely within boundary,True
+161327,0.382450023909922,travelled,4,False,False,False,Retained: entirely within boundary,True
+161399,0.22689861906926,at home all day,0,True,False,False,Retained: entirely within boundary,True
+161415,0.462780444783335,travelled,5,False,False,False,Retained: entirely within boundary,True
+161690,0.338031435511672,travelled,2,False,False,False,Retained: entirely within boundary,True
+161748,0.355140206254498,travelled,5,False,False,False,Retained: entirely within boundary,True
+161942,0.43003348730533,travelled,4,False,False,False,Retained: entirely within boundary,True
+162215,0.71505094565279,travelled,5,False,False,False,Retained: entirely within boundary,True
+162299,0.263802074470715,travelled,4,False,True,False,Excluded: outside endpoint,False
+162511,0.425437458856013,travelled,6,False,False,False,Retained: entirely within boundary,True
+162586,0.440872009572379,travelled,4,False,True,False,Excluded: outside endpoint,False
+162708,0.998954238431846,travelled,9,False,False,False,Retained: entirely within boundary,True
+162983,0.33737338682569,travelled,4,False,False,False,Retained: entirely within boundary,True
+163767,0.636398925305475,travelled,6,False,False,False,Retained: entirely within boundary,True
+164136,0.592085513164538,travelled,4,False,False,False,Retained: entirely within boundary,True
+164331,0.338175273225785,travelled,5,False,True,False,Excluded: outside endpoint,False
+164336,0.34127701146793,at home all day,0,True,False,False,Retained: entirely within boundary,True
+164369,0.269842134605943,at home all day,0,True,False,False,Retained: entirely within boundary,True
+164454,0.782869917257951,travelled,5,False,True,False,Excluded: outside endpoint,False
+164488,0.558782199695936,travelled,7,False,True,False,Excluded: outside endpoint,False
+164552,0.36475618836175,travelled,4,False,False,False,Retained: entirely within boundary,True
+164561,0.526997450430387,travelled,3,False,True,False,Excluded: outside endpoint,False
+164563,0.306094722195406,travelled,4,False,False,False,Retained: entirely within boundary,True
+164783,0.271263774843923,travelled,2,False,False,False,Retained: entirely within boundary,True
+164904,0.584079865905038,travelled,2,False,False,False,Retained: entirely within boundary,True
+164949,0.262280287362882,at home all day,0,True,False,False,Retained: entirely within boundary,True
+165406,0.575261053189842,travelled,5,False,True,False,Excluded: outside endpoint,False
+165603,0.286030803329261,at home all day,0,True,False,False,Retained: entirely within boundary,True
+165952,0.46548108905847,at home all day,0,True,False,False,Retained: entirely within boundary,True
+165963,0.347086138167717,travelled,3,False,True,False,Excluded: outside endpoint,False
+166022,0.369253421100903,travelled,3,False,True,False,Excluded: outside endpoint,False
+166083,0.949758287717845,travelled,6,False,True,False,Excluded: outside endpoint,False
+166117,0.244733747618492,travelled,4,False,True,False,Excluded: outside endpoint,False
+166283,0.270867197198862,travelled,6,False,False,False,Retained: entirely within boundary,True
+166582,0.445575243179262,travelled,2,False,False,False,Retained: entirely within boundary,True
+167040,0.271640646381576,travelled,2,False,False,False,Retained: entirely within boundary,True
+167187,0.476697305069208,at home all day,0,True,False,False,Retained: entirely within boundary,True
+167292,0.330838214115529,travelled,6,False,False,False,Retained: entirely within boundary,True
+167528,0.270944932371035,travelled,4,False,False,False,Retained: entirely within boundary,True
+167576,0.220472631747011,travelled,8,False,False,False,Retained: entirely within boundary,True
+167723,0.287184731963609,travelled,8,False,True,False,Excluded: outside endpoint,False
+167862,0.270285112426913,travelled,2,False,False,False,Retained: entirely within boundary,True
+168079,0.434617740080448,travelled,8,False,True,False,Excluded: outside endpoint,False
+168227,0.745279541173669,travelled,5,False,False,False,Retained: entirely within boundary,True
+168465,0.330599438269589,travelled,3,False,False,False,Retained: entirely within boundary,True
+168574,0.344566026205976,travelled,4,False,False,False,Retained: entirely within boundary,True
+168650,0.34752971007539,travelled,4,False,False,False,Retained: entirely within boundary,True
+169260,0.278801656787591,travelled,5,False,False,False,Retained: entirely within boundary,True
+169276,0.510953538879396,travelled,1,False,True,False,Excluded: outside endpoint,False
+169398,0.680153254948111,travelled,4,False,False,False,Retained: entirely within boundary,True
+169853,0.500387374111982,travelled,5,False,True,False,Excluded: outside endpoint,False
+170662,0.25908590803487,travelled,7,False,True,False,Excluded: outside endpoint,False
+171008,0.417808813138968,travelled,6,False,False,False,Retained: entirely within boundary,True
+171053,0.609304218367978,travelled,3,False,True,False,Excluded: outside endpoint,False
+171056,0.527509907831949,travelled,2,False,False,False,Retained: entirely within boundary,True
+171147,0.296246576714579,travelled,6,False,False,False,Retained: entirely within boundary,True
+171261,0.237909684938286,travelled,6,False,False,False,Retained: entirely within boundary,True
+171361,0.293703708634897,travelled,2,False,True,False,Excluded: outside endpoint,False
+171379,0.745792972365622,travelled,2,False,False,False,Retained: entirely within boundary,True
+171600,0.25908590803487,travelled,6,False,False,False,Retained: entirely within boundary,True
+171665,1.28307574662758,travelled,6,False,True,False,Excluded: outside endpoint,False
+171806,0.261474826120416,travelled,6,False,False,False,Retained: entirely within boundary,True
+172387,0.202452440405932,travelled,6,False,False,False,Retained: entirely within boundary,True
+172577,0.351655445501699,travelled,2,False,False,False,Retained: entirely within boundary,True
+172579,0.311490263314535,travelled,5,False,False,False,Retained: entirely within boundary,True
+172718,0.424021769280654,travelled,4,False,False,False,Retained: entirely within boundary,True
+172809,0.308644388112916,travelled,2,False,True,False,Excluded: outside endpoint,False
+172851,0.490420327546547,at home all day,0,True,False,False,Retained: entirely within boundary,True
+172854,0.425756594093067,travelled,7,False,False,False,Retained: entirely within boundary,True
+172870,0.283565143698976,travelled,3,False,False,False,Retained: entirely within boundary,True
+172898,0.390864801344529,travelled,4,False,False,False,Retained: entirely within boundary,True
+172929,0.207009351699885,travelled,7,False,False,False,Retained: entirely within boundary,True
+172949,0.322771830773207,travelled,5,False,False,False,Retained: entirely within boundary,True
+173050,0.475114404375831,travelled,5,False,False,False,Retained: entirely within boundary,True
+173384,0.220055234850402,travelled,5,False,False,False,Retained: entirely within boundary,True
+173762,0.460217147103178,travelled,4,False,True,False,Excluded: outside endpoint,False
+173780,0.330363191718892,travelled,2,False,False,False,Retained: entirely within boundary,True
+173798,0.460237550629471,travelled,4,False,False,False,Retained: entirely within boundary,True
+174714,0.449038035536302,travelled,4,False,False,False,Retained: entirely within boundary,True
+174868,0.408669492952614,travelled,4,False,False,False,Retained: entirely within boundary,True
+174900,0.694755838004525,travelled,3,False,True,False,Excluded: outside endpoint,False
+175122,0.330959348597959,travelled,4,False,True,False,Excluded: outside endpoint,False
+175414,0.432857558366649,travelled,2,False,False,False,Retained: entirely within boundary,True
+175447,0.404315344594653,travelled,6,False,True,False,Excluded: outside endpoint,False
+175486,0.564229017150994,travelled,17,False,True,False,Excluded: outside endpoint,False
+175505,0.485033725361252,travelled,5,False,False,False,Retained: entirely within boundary,True
+175796,1.0766257213107,travelled,6,False,False,False,Retained: entirely within boundary,True
+176005,0.697459515685753,travelled,1,False,True,False,Excluded: outside endpoint,False
+176155,0.31278342644142,travelled,6,False,False,False,Retained: entirely within boundary,True
+176274,0.255947456538134,travelled,4,False,False,False,Retained: entirely within boundary,True
+176430,0.27271333278867,travelled,3,False,False,False,Retained: entirely within boundary,True
+176485,0.344550383391726,travelled,6,False,False,False,Retained: entirely within boundary,True
+176554,0.392836854141853,travelled,4,False,False,False,Retained: entirely within boundary,True
+176686,0.460649023123572,travelled,4,False,True,False,Excluded: outside endpoint,False
+176770,0.422821891505679,travelled,5,False,False,False,Retained: entirely within boundary,True
+176892,0.707501544119536,travelled,4,False,False,False,Retained: entirely within boundary,True
+177027,0.271341139305241,travelled,3,False,False,False,Retained: entirely within boundary,True
+177116,0.391033211525981,travelled,4,False,False,False,Retained: entirely within boundary,True
+177559,0.436713279122708,travelled,3,False,False,False,Retained: entirely within boundary,True
+177646,0.354639161495077,at home all day,0,True,False,False,Retained: entirely within boundary,True
+177705,0.288796410602498,travelled,2,False,True,False,Excluded: outside endpoint,False
+177725,0.253173874565588,travelled,3,False,False,False,Retained: entirely within boundary,True
+177832,0.284560919911566,travelled,7,False,False,False,Retained: entirely within boundary,True
+177882,0.325747968957979,travelled,2,False,False,False,Retained: entirely within boundary,True
+178111,0.658709905177225,travelled,3,False,False,False,Retained: entirely within boundary,True
+178173,0.457833757245571,travelled,5,False,True,False,Excluded: outside endpoint,False
+178186,0.426104563093172,travelled,8,False,False,False,Retained: entirely within boundary,True
+178509,0.500496576922321,travelled,3,False,False,False,Retained: entirely within boundary,True
+178699,0.349426037775239,travelled,3,False,False,False,Retained: entirely within boundary,True
+179048,0.24464381984377,at home all day,0,True,False,False,Retained: entirely within boundary,True
+179066,0.44354450038671,travelled,2,False,False,False,Retained: entirely within boundary,True
+179190,0.297057065134178,travelled,4,False,False,False,Retained: entirely within boundary,True
+179258,0.512811474872852,travelled,4,False,False,False,Retained: entirely within boundary,True
+179442,0.363879837525288,travelled,3,False,True,False,Excluded: outside endpoint,False
+179459,0.413493138557565,travelled,4,False,False,False,Retained: entirely within boundary,True
+179507,0.361004786412995,travelled,6,False,False,False,Retained: entirely within boundary,True
+179561,0.283417533940253,travelled,6,False,False,False,Retained: entirely within boundary,True
+179677,0.205118047701368,travelled,3,False,False,False,Retained: entirely within boundary,True
+179702,0.326129558329393,travelled,2,False,False,False,Retained: entirely within boundary,True
+179828,0.352206445218502,travelled,3,False,False,False,Retained: entirely within boundary,True
+179951,0.230301485936546,travelled,5,False,False,False,Retained: entirely within boundary,True
+180048,0.395436817456977,travelled,6,False,False,False,Retained: entirely within boundary,True
+180221,0.602752990705802,travelled,6,False,False,False,Retained: entirely within boundary,True
+180282,0.274644948702231,travelled,4,False,True,False,Excluded: outside endpoint,False
+180741,0.374529329548619,travelled,4,False,False,False,Retained: entirely within boundary,True
+180795,0.338951973351795,at home all day,0,True,False,False,Retained: entirely within boundary,True
+180861,0.806950680980041,travelled,5,False,False,False,Retained: entirely within boundary,True
+181016,0.715853917178546,travelled,2,False,False,False,Retained: entirely within boundary,True
+181087,0.269547668415901,travelled,4,False,False,False,Retained: entirely within boundary,True
+181219,0.266243873103725,travelled,2,False,False,False,Retained: entirely within boundary,True
+181359,0.277177329911364,travelled,1,False,False,False,Retained: entirely within boundary,True
+181376,0.326113045745252,travelled,6,False,False,False,Retained: entirely within boundary,True
+181558,0.220055234850402,travelled,2,False,False,False,Retained: entirely within boundary,True
+181566,0.469011368811679,travelled,8,False,True,False,Excluded: outside endpoint,False
+181759,0.324231807207963,travelled,5,False,False,False,Retained: entirely within boundary,True
+181818,0.294343056271958,travelled,4,False,False,False,Retained: entirely within boundary,True
+181927,0.320417871724068,at home all day,0,True,False,False,Retained: entirely within boundary,True
+181975,0.796394126141816,travelled,4,False,False,False,Retained: entirely within boundary,True
+182358,0.443145674925526,travelled,8,False,False,False,Retained: entirely within boundary,True
+182530,0.391293946449539,travelled,5,False,False,False,Retained: entirely within boundary,True
+182538,0.577847615527573,travelled,4,False,True,False,Excluded: outside endpoint,False
+182556,0.321269521164442,travelled,5,False,False,False,Retained: entirely within boundary,True
+183330,0.387718959138877,travelled,4,False,False,False,Retained: entirely within boundary,True
+183433,0.433361087664793,travelled,2,False,False,False,Retained: entirely within boundary,True
+183484,0.450518902465995,travelled,4,False,False,False,Retained: entirely within boundary,True
+183514,0.470922034967469,at home all day,0,True,False,False,Retained: entirely within boundary,True
+183531,0.320417871724068,travelled,2,False,False,False,Retained: entirely within boundary,True
+183733,0.410186679775107,travelled,5,False,True,False,Excluded: outside endpoint,False
+183830,0.381900896514112,travelled,2,False,False,False,Retained: entirely within boundary,True
+183935,0.434192388180515,travelled,2,False,False,False,Retained: entirely within boundary,True
+184061,0.478180755674864,travelled,4,False,True,False,Excluded: outside endpoint,False
+184066,0.368278738776695,travelled,7,False,False,False,Retained: entirely within boundary,True
+184149,0.221251181720402,travelled,4,False,False,False,Retained: entirely within boundary,True
+184560,0.346153907852135,travelled,4,False,True,False,Excluded: outside endpoint,False
+184574,0.37675525546008,travelled,9,False,False,False,Retained: entirely within boundary,True
+184873,0.384031715963153,travelled,6,False,False,False,Retained: entirely within boundary,True
+185114,0.469660379972895,travelled,5,False,False,False,Retained: entirely within boundary,True
+185138,0.321269521164442,travelled,4,False,False,False,Retained: entirely within boundary,True
+185202,0.454189932205003,travelled,5,False,True,False,Excluded: outside endpoint,False
+185544,0.327344887375006,travelled,6,False,True,False,Excluded: outside endpoint,False
+185776,0.390456729520606,at home all day,0,True,False,False,Retained: entirely within boundary,True
+185989,0.559358789050156,travelled,3,False,False,False,Retained: entirely within boundary,True
+186160,0.398565536313854,travelled,7,False,False,False,Retained: entirely within boundary,True
+186293,0.228990752210701,travelled,4,False,False,False,Retained: entirely within boundary,True
+186327,0.342287251885585,travelled,4,False,False,False,Retained: entirely within boundary,True
+186329,0.402518615825749,travelled,2,False,False,False,Retained: entirely within boundary,True
+186443,0.530308989393525,at home all day,0,True,False,False,Retained: entirely within boundary,True
+186851,0.285717534171175,travelled,7,False,False,False,Retained: entirely within boundary,True
+186926,0.484818718254386,at home all day,0,True,False,False,Retained: entirely within boundary,True
+186954,0.390839484088917,travelled,6,False,False,False,Retained: entirely within boundary,True
+187157,0.288777100272412,travelled,3,False,False,False,Retained: entirely within boundary,True
+187634,0.576438467453751,travelled,2,False,False,False,Retained: entirely within boundary,True
+187652,0.387443843924388,travelled,7,False,False,False,Retained: entirely within boundary,True
+187761,0.231378413912724,travelled,3,False,False,False,Retained: entirely within boundary,True
+187826,0.639704994732275,travelled,2,False,False,False,Retained: entirely within boundary,True
+187852,0.321117363069685,travelled,2,False,False,False,Retained: entirely within boundary,True
+188082,0.477728792446084,travelled,3,False,True,False,Excluded: outside endpoint,False
+188097,0.422821891505679,travelled,5,False,True,False,Excluded: outside endpoint,False
+188163,0.735741017950841,travelled,4,False,True,False,Excluded: outside endpoint,False
+188171,0.291439787883502,travelled,3,False,False,False,Retained: entirely within boundary,True
+188322,0.998629123101811,travelled,3,False,False,False,Retained: entirely within boundary,True
+188357,0.402129401708253,at home all day,0,True,False,False,Retained: entirely within boundary,True
+188916,0.647078562550583,travelled,4,False,False,False,Retained: entirely within boundary,True
+188962,0.477803389194867,travelled,4,False,False,False,Retained: entirely within boundary,True
+189030,0.285024303510414,travelled,2,False,False,False,Retained: entirely within boundary,True
+189803,0.424622478296613,travelled,2,False,False,False,Retained: entirely within boundary,True
+189873,0.426001266849871,travelled,2,False,False,False,Retained: entirely within boundary,True
+189962,0.499506290441398,travelled,6,False,False,False,Retained: entirely within boundary,True
+190039,0.422821891505679,travelled,2,False,False,False,Retained: entirely within boundary,True
+190136,0.316563442285013,at home all day,0,True,False,False,Retained: entirely within boundary,True
+190309,0.400621389603662,travelled,12,False,False,False,Retained: entirely within boundary,True
+190432,0.525738633697526,travelled,2,False,False,False,Retained: entirely within boundary,True
+190746,0.228197377510335,travelled,4,False,False,False,Retained: entirely within boundary,True
+190816,0.269547668415901,travelled,6,False,False,False,Retained: entirely within boundary,True
+190843,0.493484285929129,travelled,9,False,False,False,Retained: entirely within boundary,True
+190954,0.269597360144668,travelled,6,False,False,False,Retained: entirely within boundary,True
+191068,0.299050008100479,travelled,9,False,True,False,Excluded: outside endpoint,False
+191156,0.336905318336126,travelled,4,False,False,False,Retained: entirely within boundary,True
+191623,0.662991390744318,travelled,2,False,False,False,Retained: entirely within boundary,True
+191758,0.273601095679754,travelled,4,False,False,False,Retained: entirely within boundary,True
+192034,0.349865561952255,travelled,2,False,False,False,Retained: entirely within boundary,True
+192116,0.437832636299396,travelled,1,False,False,False,Retained: entirely within boundary,True
+192298,0.219229759783528,travelled,10,False,False,False,Retained: entirely within boundary,True
+192465,1.50885201924375,travelled,7,False,True,False,Excluded: outside endpoint,False
+192624,0.244733747618492,at home all day,0,True,False,False,Retained: entirely within boundary,True
+192943,0.422821891505679,travelled,7,False,True,False,Excluded: outside endpoint,False
+192994,0.349865561952255,travelled,5,False,False,False,Retained: entirely within boundary,True
+193240,0.34516241200266,travelled,4,False,False,False,Retained: entirely within boundary,True
+193370,0.272033049828112,travelled,6,False,False,False,Retained: entirely within boundary,True
+193387,0.31065412639998,travelled,2,False,False,False,Retained: entirely within boundary,True
+193388,0.277424520436639,travelled,2,False,False,False,Retained: entirely within boundary,True
+193900,0.239303466556471,travelled,3,False,True,False,Excluded: outside endpoint,False
+194015,0.635288967869992,travelled,1,False,False,False,Retained: entirely within boundary,True
+194058,0.361581701816212,travelled,5,False,False,False,Retained: entirely within boundary,True
+194180,0.941940189508786,travelled,5,False,False,False,Retained: entirely within boundary,True
+194380,0.452337042066053,travelled,6,False,True,False,Excluded: outside endpoint,False
+194590,0.283417533940253,travelled,6,False,False,False,Retained: entirely within boundary,True
+194664,0.607283659167133,travelled,9,False,False,False,Retained: entirely within boundary,True
+195128,0.404315344594653,travelled,6,False,False,False,Retained: entirely within boundary,True
+195171,0.356366016560658,travelled,6,False,False,False,Retained: entirely within boundary,True
+195591,0.279716503969661,travelled,5,False,False,False,Retained: entirely within boundary,True
+195632,0.46726716185377,travelled,6,False,False,False,Retained: entirely within boundary,True
+195694,0.266243873103725,travelled,4,False,False,False,Retained: entirely within boundary,True
+195706,0.259884010324439,travelled,2,False,False,False,Retained: entirely within boundary,True
+195716,0.367582882806903,travelled,4,False,False,False,Retained: entirely within boundary,True
+195733,0.399787268615498,travelled,7,False,False,False,Retained: entirely within boundary,True
+195805,1.16064891424744,travelled,4,False,False,False,Retained: entirely within boundary,True
+196187,0.200602769814217,travelled,8,False,False,False,Retained: entirely within boundary,True
+196273,0.875666653062688,travelled,2,False,False,False,Retained: entirely within boundary,True
+196401,0.578399140160105,travelled,6,False,False,False,Retained: entirely within boundary,True
+196440,0.279716503969661,travelled,4,False,False,False,Retained: entirely within boundary,True
+196696,0.289522549071162,travelled,7,False,False,False,Retained: entirely within boundary,True
+196708,0.952595284522585,at home all day,0,True,False,False,Retained: entirely within boundary,True
+196853,0.517539885677173,travelled,4,False,True,False,Excluded: outside endpoint,False
+196880,0.295452620886183,travelled,4,False,True,False,Excluded: outside endpoint,False
+196978,0.544816715267447,travelled,10,False,False,False,Retained: entirely within boundary,True
+197073,0.31707419806662,travelled,5,False,False,False,Retained: entirely within boundary,True
+197456,0.625735698183028,travelled,2,False,False,False,Retained: entirely within boundary,True
+197489,0.700478484731958,travelled,6,False,False,False,Retained: entirely within boundary,True
+197539,0.287760936643432,travelled,2,False,False,False,Retained: entirely within boundary,True
+197819,0.250800507012263,travelled,2,False,False,False,Retained: entirely within boundary,True
+197973,0.437952795145735,at home all day,0,True,False,False,Retained: entirely within boundary,True
+198010,0.344566026205976,travelled,8,False,False,False,Retained: entirely within boundary,True
+198021,0.656114575929848,travelled,2,False,False,False,Retained: entirely within boundary,True
+198041,0.31065412639998,travelled,2,False,False,False,Retained: entirely within boundary,True
+198052,0.380523078725298,travelled,2,False,True,False,Excluded: outside endpoint,False
+198205,0.360188960390503,travelled,5,False,False,False,Retained: entirely within boundary,True
+198552,0.235653637147607,travelled,4,False,False,False,Retained: entirely within boundary,True
+198601,0.823692118783281,travelled,3,False,False,False,Retained: entirely within boundary,True
+198703,0.231649456411642,at home all day,0,True,False,False,Retained: entirely within boundary,True
+198940,0.421449213771285,travelled,4,False,False,False,Retained: entirely within boundary,True
+198957,0.467880900611749,at home all day,0,True,False,False,Retained: entirely within boundary,True
+199126,0.391293946449539,travelled,4,False,False,False,Retained: entirely within boundary,True
+199202,0.399417910709391,at home all day,0,True,False,False,Retained: entirely within boundary,True
+199744,0.230301485936546,travelled,2,False,False,False,Retained: entirely within boundary,True
+199813,0.544205243160727,travelled,2,False,True,False,Excluded: outside endpoint,False
+199871,0.230301485936546,travelled,4,False,False,False,Retained: entirely within boundary,True
+199898,0.378289764222021,travelled,2,False,False,False,Retained: entirely within boundary,True
+199956,0.642007558271696,travelled,7,False,False,False,Retained: entirely within boundary,True
+200144,0.468213251083104,travelled,2,False,False,False,Retained: entirely within boundary,True
+200147,0.325797368892483,travelled,5,False,False,False,Retained: entirely within boundary,True
+200175,1.22448068184588,travelled,6,False,False,False,Retained: entirely within boundary,True
+200187,0.214120056574364,at home all day,0,True,False,False,Retained: entirely within boundary,True
+200212,0.373867443487254,travelled,3,False,True,False,Excluded: outside endpoint,False
+200235,1.00401876504654,travelled,4,False,True,False,Excluded: outside endpoint,False
+200264,0.563982028324985,travelled,4,False,False,False,Retained: entirely within boundary,True
+200398,0.774540482574987,at home all day,0,True,False,False,Retained: entirely within boundary,True
+200522,0.257354559868296,travelled,4,False,False,False,Retained: entirely within boundary,True
+200751,0.241532910595993,travelled,5,False,False,False,Retained: entirely within boundary,True
+200792,0.644555739247009,travelled,3,False,True,False,Excluded: outside endpoint,False
+200952,0.286030803329261,travelled,4,False,False,False,Retained: entirely within boundary,True
+201076,0.360291557247001,travelled,1,False,False,False,Retained: entirely within boundary,True
+201195,0.460701440604504,travelled,4,False,False,False,Retained: entirely within boundary,True
+201284,0.358078231315961,travelled,6,False,True,False,Excluded: outside endpoint,False
+201348,1.14207870155678,travelled,6,False,False,False,Retained: entirely within boundary,True
+201395,0.48622346927462,travelled,4,False,False,False,Retained: entirely within boundary,True
+201545,0.620959994424244,travelled,8,False,True,False,Excluded: outside endpoint,False
+202056,0.218931111577775,travelled,3,False,False,False,Retained: entirely within boundary,True
+202120,0.228851088890898,travelled,4,False,False,False,Retained: entirely within boundary,True
+202250,0.330247297158314,travelled,3,False,False,False,Retained: entirely within boundary,True
+202256,0.743346309407516,at home all day,0,True,False,False,Retained: entirely within boundary,True
+202648,0.218044739468674,travelled,4,False,True,False,Excluded: outside endpoint,False
+202717,0.367895368090366,travelled,5,False,True,False,Excluded: outside endpoint,False
+202764,0.3601052412578,travelled,2,False,False,False,Retained: entirely within boundary,True
+202938,0.515964433616637,travelled,3,False,False,False,Retained: entirely within boundary,True
+203118,0.38868667172928,travelled,8,False,True,False,Excluded: outside endpoint,False
+203271,0.351691070730947,at home all day,0,True,False,False,Retained: entirely within boundary,True
+203588,0.210146089645638,travelled,4,False,False,False,Retained: entirely within boundary,True
+203613,0.560744128377131,travelled,6,False,False,False,Retained: entirely within boundary,True
+204024,0.30145065117689,at home all day,0,True,False,False,Retained: entirely within boundary,True
+204277,0.19915230353296,travelled,1,False,True,False,Excluded: outside endpoint,False
+204402,0.498883629811211,travelled,3,False,False,False,Retained: entirely within boundary,True
+204601,0.529735904740127,travelled,4,False,False,False,Retained: entirely within boundary,True
+204810,0.584430284011451,travelled,12,False,True,False,Excluded: outside endpoint,False
+204920,0.344442576329468,travelled,3,False,True,False,Excluded: outside endpoint,False
+205101,0.445826653088273,travelled,5,False,False,False,Retained: entirely within boundary,True
+205183,0.43227667765474,travelled,6,False,False,False,Retained: entirely within boundary,True
+205227,0.481469489603069,travelled,7,False,False,False,Retained: entirely within boundary,True
+205612,0.244657172384106,travelled,1,False,False,False,Retained: entirely within boundary,True
+205621,0.80518490383961,travelled,5,False,False,False,Retained: entirely within boundary,True
+205725,0.618016767060677,at home all day,0,True,False,False,Retained: entirely within boundary,True
+205904,0.478131173843427,travelled,2,False,False,False,Retained: entirely within boundary,True
+205929,0.348359721911025,travelled,3,False,False,False,Retained: entirely within boundary,True
+205996,0.519799550203766,travelled,4,False,False,False,Retained: entirely within boundary,True
+206139,0.307045635210447,travelled,8,False,True,False,Excluded: outside endpoint,False
+206172,0.195079996425277,travelled,4,False,False,False,Retained: entirely within boundary,True
+206394,0.34004405913523,travelled,5,False,False,False,Retained: entirely within boundary,True
+206409,0.480029974543384,travelled,2,False,False,False,Retained: entirely within boundary,True
+206419,0.309379170248382,travelled,1,False,True,False,Excluded: outside endpoint,False
+206516,0.355120119354539,travelled,7,False,False,False,Retained: entirely within boundary,True
+206519,0.435854666790108,travelled,4,False,False,False,Retained: entirely within boundary,True
+206659,0.34004405913523,travelled,4,False,False,False,Retained: entirely within boundary,True
+206695,0.765623471897355,travelled,2,False,False,False,Retained: entirely within boundary,True
+206930,0.577114766169585,travelled,3,False,False,False,Retained: entirely within boundary,True
+207063,0.330068898223226,travelled,4,False,False,False,Retained: entirely within boundary,True
+207084,1.44168623916957,travelled,4,False,True,False,Excluded: outside endpoint,False
+207188,0.434778286548006,travelled,7,False,True,False,Excluded: outside endpoint,False
+207209,0.234574281644445,travelled,2,False,False,False,Retained: entirely within boundary,True
+207350,0.691905147582534,travelled,5,False,False,False,Retained: entirely within boundary,True
+207491,0.472317400901349,at home all day,0,True,False,False,Retained: entirely within boundary,True
+207529,0.322369570747318,travelled,9,False,False,False,Retained: entirely within boundary,True
+207612,0.346561981901329,travelled,4,False,False,False,Retained: entirely within boundary,True
+207690,0.286709624177524,travelled,4,False,True,False,Excluded: outside endpoint,False
+208244,0.464867988853617,travelled,2,False,False,False,Retained: entirely within boundary,True
+208352,0.729430880105252,travelled,2,False,False,False,Retained: entirely within boundary,True
+208781,0.291355134701496,travelled,6,False,False,False,Retained: entirely within boundary,True
+208988,0.564178083531651,travelled,6,False,False,False,Retained: entirely within boundary,True
+209031,1.07022209555608,travelled,4,False,True,False,Excluded: outside endpoint,False
+209107,0.405706429084184,travelled,4,False,False,False,Retained: entirely within boundary,True
+209419,0.239326188262763,travelled,2,False,False,False,Retained: entirely within boundary,True
+209843,0.360291557247001,at home all day,0,True,False,False,Retained: entirely within boundary,True
+210185,0.364446548850457,travelled,2,False,False,False,Retained: entirely within boundary,True
+210389,0.620959994424244,at home all day,0,True,False,False,Retained: entirely within boundary,True
+210524,0.21766181594397,travelled,6,False,True,False,Excluded: outside endpoint,False
+210563,0.403107877708821,travelled,2,False,False,False,Retained: entirely within boundary,True
+210689,0.691207001854454,travelled,2,False,False,False,Retained: entirely within boundary,True
+210832,0.220055234850402,travelled,4,False,False,False,Retained: entirely within boundary,True
+211170,0.228851088890898,travelled,5,False,False,False,Retained: entirely within boundary,True
+211343,0.444175713009648,travelled,3,False,False,False,Retained: entirely within boundary,True
+211435,0.214897277320342,travelled,6,False,False,False,Retained: entirely within boundary,True
+211556,0.329394060756621,travelled,4,False,False,False,Retained: entirely within boundary,True
+211645,0.666711867919948,travelled,2,False,True,False,Excluded: outside endpoint,False
+211850,0.358914298379302,travelled,2,False,False,False,Retained: entirely within boundary,True
+211878,0.320319652665673,travelled,9,False,False,False,Retained: entirely within boundary,True
+211896,0.61094375800655,travelled,2,False,False,False,Retained: entirely within boundary,True
+211953,0.533368032430957,travelled,5,False,False,False,Retained: entirely within boundary,True
+212353,0.29585586973705,travelled,7,False,False,False,Retained: entirely within boundary,True
+212477,0.322189854011842,travelled,4,False,False,False,Retained: entirely within boundary,True
+212519,0.278120053458769,travelled,2,False,False,False,Retained: entirely within boundary,True
+212582,0.717832029250982,travelled,3,False,False,False,Retained: entirely within boundary,True
+212745,0.436070806863448,travelled,2,False,False,False,Retained: entirely within boundary,True
+212896,0.312231820555392,travelled,4,False,False,False,Retained: entirely within boundary,True
+212916,0.214120056574364,travelled,1,False,False,False,Retained: entirely within boundary,True
+212952,0.411103417434955,travelled,3,False,False,False,Retained: entirely within boundary,True
+213322,0.799317892853196,travelled,6,False,False,False,Retained: entirely within boundary,True
+213761,0.265756142744957,travelled,2,False,False,False,Retained: entirely within boundary,True
+214229,0.493429888097255,travelled,4,False,True,False,Excluded: outside endpoint,False
+214532,0.247885520154397,travelled,4,False,False,False,Retained: entirely within boundary,True
+214571,0.485765124545074,travelled,1,False,False,False,Retained: entirely within boundary,True
+214662,0.558740216646951,travelled,4,False,False,False,Retained: entirely within boundary,True
+214756,0.426709007286117,travelled,2,False,False,False,Retained: entirely within boundary,True
+214993,0.844214146666658,travelled,2,False,False,False,Retained: entirely within boundary,True
+215316,0.321269521164442,travelled,4,False,False,False,Retained: entirely within boundary,True
+216026,0.459498355504746,travelled,2,False,True,False,Excluded: outside endpoint,False
+216279,0.50887918675851,travelled,4,False,False,False,Retained: entirely within boundary,True
+216594,0.769019294506318,travelled,5,False,False,False,Retained: entirely within boundary,True
+216619,0.223087206504109,travelled,11,False,False,False,Retained: entirely within boundary,True
+216834,0.458658585370378,at home all day,0,True,False,False,Retained: entirely within boundary,True
+216937,0.24928376102808,travelled,2,False,False,False,Retained: entirely within boundary,True
+217021,0.374833587301529,travelled,2,False,False,False,Retained: entirely within boundary,True
+217769,0.397765893418633,travelled,4,False,True,False,Excluded: outside endpoint,False
+217937,0.30145065117689,travelled,4,False,False,False,Retained: entirely within boundary,True
+218000,0.485960221212681,travelled,4,False,False,False,Retained: entirely within boundary,True
+218191,0.427945136519503,travelled,3,False,False,False,Retained: entirely within boundary,True
+218247,0.385957711908623,travelled,4,False,True,False,Excluded: outside endpoint,False
+218296,0.201064445008802,at home all day,0,True,False,False,Retained: entirely within boundary,True
+218571,0.305885594389145,travelled,6,False,False,False,Retained: entirely within boundary,True
+218595,0.371674193736636,travelled,5,False,False,False,Retained: entirely within boundary,True
+218764,0.832105790019151,travelled,4,False,False,False,Retained: entirely within boundary,True
+218774,0.277816553960309,at home all day,0,True,False,False,Retained: entirely within boundary,True
+218896,0.34336400460931,travelled,3,False,True,False,Excluded: outside endpoint,False
+218947,0.388110964396393,travelled,2,False,False,False,Retained: entirely within boundary,True
+218975,1.09694885085587,travelled,5,False,True,False,Excluded: outside endpoint,False
+219250,0.304230196069773,at home all day,0,True,False,False,Retained: entirely within boundary,True
+219267,0.309379170248382,travelled,5,False,False,False,Retained: entirely within boundary,True
+219353,0.358914298379302,travelled,1,False,False,False,Retained: entirely within boundary,True
+219630,0.620757899467579,travelled,5,False,False,False,Retained: entirely within boundary,True
+219857,0.375788069656323,travelled,4,False,False,False,Retained: entirely within boundary,True
+219961,0.672251693064161,travelled,4,False,False,False,Retained: entirely within boundary,True
+220047,0.360291557247001,at home all day,0,True,False,False,Retained: entirely within boundary,True
+220368,0.237035786260617,travelled,7,False,False,False,Retained: entirely within boundary,True
+220775,0.383530471334865,travelled,2,False,False,False,Retained: entirely within boundary,True
+220954,0.840157715491074,travelled,3,False,True,False,Excluded: outside endpoint,False
+221090,0.4651007372014,travelled,4,False,False,False,Retained: entirely within boundary,True
+221220,0.30643694571352,travelled,4,False,False,False,Retained: entirely within boundary,True
+221332,0.548835826712633,at home all day,0,True,False,False,Retained: entirely within boundary,True
+221380,0.346952694586738,travelled,1,False,False,False,Retained: entirely within boundary,True
+221402,0.302544867682021,travelled,4,False,True,False,Excluded: outside endpoint,False
+221512,0.280378179157348,travelled,4,False,False,False,Retained: entirely within boundary,True
+221681,0.228197377510335,travelled,4,False,False,False,Retained: entirely within boundary,True
+221734,0.23465660141974,travelled,4,False,False,False,Retained: entirely within boundary,True
+221831,0.285680269781002,travelled,2,False,False,False,Retained: entirely within boundary,True
+221920,0.766937124061975,travelled,4,False,False,False,Retained: entirely within boundary,True
+221936,0.533034847092168,travelled,2,False,False,False,Retained: entirely within boundary,True
+222344,0.4058118821134,at home all day,0,True,False,False,Retained: entirely within boundary,True
+222444,0.543607258761629,travelled,4,False,False,False,Retained: entirely within boundary,True
+223300,0.372452994436106,travelled,4,False,False,False,Retained: entirely within boundary,True
+223760,0.214897277320342,travelled,4,False,False,False,Retained: entirely within boundary,True
+223811,0.463872376356194,travelled,6,False,False,False,Retained: entirely within boundary,True
+223904,0.262280287362882,travelled,2,False,False,False,Retained: entirely within boundary,True
+224079,0.408116037792466,travelled,6,False,False,False,Retained: entirely within boundary,True
+224441,0.421449213771285,travelled,5,False,False,False,Retained: entirely within boundary,True
+224524,0.421302149132874,travelled,4,False,True,False,Excluded: outside endpoint,False
+224598,0.397432207930911,travelled,6,False,False,False,Retained: entirely within boundary,True
+224885,0.812501455774057,travelled,2,False,True,False,Excluded: outside endpoint,False
+224946,0.458613940932959,travelled,2,False,True,False,Excluded: outside endpoint,False
+225146,0.417966324770673,travelled,3,False,False,False,Retained: entirely within boundary,True
+225539,0.514300061810129,travelled,6,False,False,False,Retained: entirely within boundary,True
+225618,0.228851088890898,travelled,5,False,False,False,Retained: entirely within boundary,True
+225640,0.50887918675851,travelled,15,False,False,False,Retained: entirely within boundary,True
+225646,0.191459404003189,travelled,2,False,False,False,Retained: entirely within boundary,True
+225654,0.582436089559172,travelled,4,False,False,False,Retained: entirely within boundary,True
+225670,0.430643504814382,travelled,4,False,False,False,Retained: entirely within boundary,True
+226154,0.706389923704942,travelled,7,False,False,False,Retained: entirely within boundary,True
+226194,0.293539972735163,travelled,3,False,False,False,Retained: entirely within boundary,True
+226231,0.463935504272825,travelled,4,False,False,False,Retained: entirely within boundary,True
+226691,0.383530471334865,travelled,5,False,False,False,Retained: entirely within boundary,True
+226890,0.594664333277429,at home all day,0,True,False,False,Retained: entirely within boundary,True
+227640,0.248271174854421,travelled,4,False,False,False,Retained: entirely within boundary,True
+227697,0.92666477546526,travelled,7,False,False,False,Retained: entirely within boundary,True
+227807,0.380510872260588,travelled,6,False,False,False,Retained: entirely within boundary,True
+227865,0.33687072639085,travelled,6,False,False,False,Retained: entirely within boundary,True
+228071,0.316393119699418,travelled,10,False,False,False,Retained: entirely within boundary,True
+228210,0.393040977529741,travelled,6,False,False,False,Retained: entirely within boundary,True
+228579,0.52022714516893,travelled,11,False,False,False,Retained: entirely within boundary,True
+228651,0.283417533940253,travelled,7,False,False,False,Retained: entirely within boundary,True
+228765,0.472557679994068,travelled,4,False,False,False,Retained: entirely within boundary,True
+229062,0.244904487691258,travelled,8,False,False,False,Retained: entirely within boundary,True
+229382,0.428171721723082,travelled,4,False,True,False,Excluded: outside endpoint,False
+229454,0.534722187970883,travelled,4,False,False,False,Retained: entirely within boundary,True
+229534,0.36951675280916,travelled,8,False,False,False,Retained: entirely within boundary,True
+229973,0.19915230353296,travelled,5,False,False,False,Retained: entirely within boundary,True
+229974,0.337871933656721,travelled,4,False,False,False,Retained: entirely within boundary,True
+230104,0.49901939300615,travelled,4,False,False,False,Retained: entirely within boundary,True
+230134,0.344442576329468,travelled,2,False,False,False,Retained: entirely within boundary,True
+230353,0.375312401244131,travelled,5,False,False,False,Retained: entirely within boundary,True
+230765,0.277816553960309,travelled,7,False,False,False,Retained: entirely within boundary,True
+231229,0.735229625041252,travelled,2,False,False,False,Retained: entirely within boundary,True
+231327,0.409739376567081,travelled,5,False,False,False,Retained: entirely within boundary,True
+231446,0.504123330291466,travelled,6,False,False,False,Retained: entirely within boundary,True
+231456,0.283070202979201,travelled,3,False,False,False,Retained: entirely within boundary,True
+232088,0.350286467969521,travelled,3,False,False,False,Retained: entirely within boundary,True
+232186,0.485960221212681,travelled,2,False,True,False,Excluded: outside endpoint,False
+232708,0.330247297158314,at home all day,0,True,False,False,Retained: entirely within boundary,True
+232842,0.53728242978571,travelled,4,False,True,False,Excluded: outside endpoint,False
+233444,0.426709007286117,travelled,6,False,False,False,Retained: entirely within boundary,True
+233628,0.463935504272825,travelled,3,False,False,False,Retained: entirely within boundary,True
+233967,0.350956213795823,travelled,9,False,False,False,Retained: entirely within boundary,True
+234142,0.240103346312563,travelled,6,False,False,False,Retained: entirely within boundary,True
+234305,0.247006224433109,travelled,2,False,False,False,Retained: entirely within boundary,True
+234438,0.743346309407516,at home all day,0,True,False,False,Retained: entirely within boundary,True
+234638,0.477028515992704,travelled,7,False,False,False,Retained: entirely within boundary,True
+234829,0.330363191718892,travelled,4,False,False,False,Retained: entirely within boundary,True
+234846,0.681499187648079,travelled,6,False,False,False,Retained: entirely within boundary,True
+235248,0.960424496114155,travelled,3,False,False,False,Retained: entirely within boundary,True
+235249,0.324231807207963,travelled,6,False,False,False,Retained: entirely within boundary,True
+235294,0.580214619112847,travelled,6,False,False,False,Retained: entirely within boundary,True
+235433,0.485934017828361,travelled,2,False,False,False,Retained: entirely within boundary,True
+235509,0.344423777847703,at home all day,0,True,False,False,Retained: entirely within boundary,True
+235583,0.294684747392939,travelled,5,False,False,False,Retained: entirely within boundary,True
+235795,0.415073240178328,travelled,4,False,False,False,Retained: entirely within boundary,True
+236068,0.280378179157348,travelled,2,False,False,False,Retained: entirely within boundary,True
+236225,0.205118047701368,travelled,8,False,False,False,Retained: entirely within boundary,True
+237146,0.330247297158314,travelled,5,False,False,False,Retained: entirely within boundary,True
+237393,0.201311153797587,travelled,4,False,False,False,Retained: entirely within boundary,True
+237425,0.444150605878106,travelled,2,False,False,False,Retained: entirely within boundary,True
+237517,0.378727411053195,travelled,5,False,True,False,Excluded: outside endpoint,False
+237846,0.432462749812722,travelled,2,False,False,False,Retained: entirely within boundary,True
+237896,0.197332784052836,travelled,3,False,False,False,Retained: entirely within boundary,True
+237995,0.400141550440296,travelled,1,False,True,False,Excluded: outside endpoint,False
+238084,0.402167583629679,travelled,4,False,False,False,Retained: entirely within boundary,True
+238335,0.215673187606946,travelled,2,False,False,False,Retained: entirely within boundary,True
+238642,0.695361236513118,travelled,3,False,False,False,Retained: entirely within boundary,True
+239262,0.344413332546914,travelled,6,False,False,False,Retained: entirely within boundary,True
+239296,0.60097226214626,travelled,1,False,False,False,Retained: entirely within boundary,True
+239325,0.488105643859885,at home all day,0,True,False,False,Retained: entirely within boundary,True
+239474,0.386453395917789,travelled,1,False,True,False,Excluded: outside endpoint,False
+239888,0.241532910595993,travelled,6,False,False,False,Retained: entirely within boundary,True
+240095,0.318449495918444,travelled,4,False,False,False,Retained: entirely within boundary,True
+240105,0.309876769009293,travelled,4,False,False,False,Retained: entirely within boundary,True
+240119,0.405706429084184,travelled,4,False,False,False,Retained: entirely within boundary,True
+240329,0.621968760607245,travelled,2,False,False,False,Retained: entirely within boundary,True
+240371,0.367895368090366,travelled,4,False,False,False,Retained: entirely within boundary,True
+240382,0.518773011973342,travelled,4,False,True,False,Excluded: outside endpoint,False
+240585,0.563403927617735,travelled,3,False,False,False,Retained: entirely within boundary,True
+240622,0.447400495029702,travelled,6,False,True,False,Excluded: outside endpoint,False
+241071,0.348987631814458,at home all day,0,True,False,False,Retained: entirely within boundary,True
+241148,0.367876853291912,at home all day,0,True,False,False,Retained: entirely within boundary,True
+241230,0.22926446632625,at home all day,0,True,False,False,Retained: entirely within boundary,True
+241336,0.93863568853499,travelled,5,False,True,False,Excluded: outside endpoint,False
+241485,0.393163982190864,travelled,4,False,False,False,Retained: entirely within boundary,True
+241514,0.214120056574364,travelled,2,False,False,False,Retained: entirely within boundary,True
+241528,0.403214112675931,travelled,3,False,True,False,Excluded: outside endpoint,False
+241734,0.461682100777875,travelled,6,False,False,False,Retained: entirely within boundary,True
+241747,0.39233706898161,travelled,4,False,False,False,Retained: entirely within boundary,True
+241966,0.392270581895401,at home all day,0,True,False,False,Retained: entirely within boundary,True
+241977,0.30533450186775,travelled,3,False,False,False,Retained: entirely within boundary,True
+242415,0.731803995371914,travelled,5,False,False,False,Retained: entirely within boundary,True
+242565,0.436324889402311,travelled,6,False,False,False,Retained: entirely within boundary,True
+242615,0.417966324770673,travelled,3,False,False,False,Retained: entirely within boundary,True
+243100,0.345799168597393,travelled,5,False,False,False,Retained: entirely within boundary,True
+243259,0.191459404003189,at home all day,0,True,False,False,Retained: entirely within boundary,True
+243513,0.642641075285648,travelled,5,False,True,False,Excluded: outside endpoint,False
+243574,0.330363191718892,travelled,7,False,False,False,Retained: entirely within boundary,True
+243855,0.341295638200722,travelled,4,False,False,False,Retained: entirely within boundary,True
+244075,0.328218537694613,travelled,6,False,False,False,Retained: entirely within boundary,True
+244260,1.07497058234535,travelled,3,False,False,False,Retained: entirely within boundary,True
+244283,0.290253860763984,travelled,5,False,False,False,Retained: entirely within boundary,True
+244568,0.438976610633649,travelled,2,False,False,False,Retained: entirely within boundary,True
+244712,0.676901209009326,travelled,4,False,False,False,Retained: entirely within boundary,True
+244806,0.391553563742778,travelled,4,False,False,False,Retained: entirely within boundary,True
+244892,0.387427185363617,travelled,13,False,True,False,Excluded: outside endpoint,False
+245125,0.409335129295826,travelled,4,False,False,False,Retained: entirely within boundary,True
+245200,0.241532910595993,travelled,5,False,False,False,Retained: entirely within boundary,True
+245228,0.302544867682021,travelled,6,False,False,False,Retained: entirely within boundary,True
+245336,0.418643120160923,travelled,2,False,False,False,Retained: entirely within boundary,True
+245726,0.305885594389145,travelled,2,False,False,False,Retained: entirely within boundary,True
+245767,0.549675104958419,travelled,5,False,False,False,Retained: entirely within boundary,True
+246419,0.669214972747395,travelled,8,False,False,False,Retained: entirely within boundary,True
+246600,0.266558663722235,travelled,3,False,False,False,Retained: entirely within boundary,True
+246686,0.402917462872423,travelled,4,False,True,False,Excluded: outside endpoint,False
+246735,0.409739376567081,travelled,2,False,False,False,Retained: entirely within boundary,True
+246765,0.309876769009293,travelled,6,False,False,False,Retained: entirely within boundary,True
+247185,0.327344887375006,travelled,2,False,False,False,Retained: entirely within boundary,True
+247350,0.360291557247001,travelled,3,False,False,False,Retained: entirely within boundary,True
+247405,0.456469319817767,travelled,2,False,False,False,Retained: entirely within boundary,True
+247764,0.278120053458769,travelled,4,False,False,False,Retained: entirely within boundary,True
+247897,0.29862953581305,travelled,2,False,True,False,Excluded: outside endpoint,False
+248048,0.228851088890898,travelled,6,False,False,False,Retained: entirely within boundary,True
+248202,0.218044739468674,travelled,2,False,False,False,Retained: entirely within boundary,True
+248420,0.295141775171303,at home all day,0,True,False,False,Retained: entirely within boundary,True
+248545,0.690333164065437,travelled,2,False,True,False,Excluded: outside endpoint,False
+248810,0.283070202979201,travelled,5,False,False,False,Retained: entirely within boundary,True
+249193,0.312231820555392,travelled,3,False,False,False,Retained: entirely within boundary,True
+249367,0.394859412648743,travelled,2,False,False,False,Retained: entirely within boundary,True
+249384,0.353599222596711,travelled,5,False,False,False,Retained: entirely within boundary,True
+249419,0.27775373108464,travelled,2,False,False,False,Retained: entirely within boundary,True
+249622,0.395709051937982,travelled,4,False,False,False,Retained: entirely within boundary,True
+250009,0.793739856943536,travelled,8,False,False,False,Retained: entirely within boundary,True
+250423,0.563214651034388,travelled,4,False,True,False,Excluded: outside endpoint,False
+250644,0.427989459657498,travelled,3,False,False,False,Retained: entirely within boundary,True
+250739,0.319310442573229,travelled,2,False,False,False,Retained: entirely within boundary,True
+250908,0.414874301897296,travelled,2,False,False,False,Retained: entirely within boundary,True
+251103,0.740696328921002,travelled,2,False,False,False,Retained: entirely within boundary,True
+251197,0.522764968407583,travelled,2,False,False,False,Retained: entirely within boundary,True
+251258,0.223344919018167,travelled,7,False,False,False,Retained: entirely within boundary,True
+251411,0.410186679775107,travelled,4,False,False,False,Retained: entirely within boundary,True
+252176,0.465787427421562,travelled,2,False,False,False,Retained: entirely within boundary,True
+252268,0.272033049828112,travelled,4,False,False,False,Retained: entirely within boundary,True
+252269,0.328237675960619,travelled,4,False,True,False,Excluded: outside endpoint,False
+252387,0.504725542826452,at home all day,0,True,False,False,Retained: entirely within boundary,True
+253279,0.312231820555392,travelled,6,False,False,False,Retained: entirely within boundary,True
+253862,0.218931111577775,travelled,2,False,False,False,Retained: entirely within boundary,True
+254029,0.393485326758028,travelled,3,False,False,False,Retained: entirely within boundary,True
+254135,0.671319042130125,travelled,2,False,False,False,Retained: entirely within boundary,True
+254212,0.391760880607446,travelled,2,False,False,False,Retained: entirely within boundary,True
+254556,0.278629350641592,at home all day,0,True,False,False,Retained: entirely within boundary,True
+254855,0.503949753251164,travelled,4,False,False,False,Retained: entirely within boundary,True
+254921,0.234469985775011,travelled,2,False,True,False,Excluded: outside endpoint,False
+255652,0.302812178433937,travelled,2,False,False,False,Retained: entirely within boundary,True
+255658,0.603744120046581,travelled,7,False,False,False,Retained: entirely within boundary,True
+255689,0.670634032013916,travelled,3,False,False,False,Retained: entirely within boundary,True
+255847,0.366210695500044,travelled,4,False,False,False,Retained: entirely within boundary,True
+255848,0.307951649794417,travelled,3,False,False,False,Retained: entirely within boundary,True
+255938,0.411879097663529,travelled,3,False,False,False,Retained: entirely within boundary,True
+256222,0.328570471040905,travelled,7,False,False,False,Retained: entirely within boundary,True
+256372,0.367876853291912,travelled,4,False,False,False,Retained: entirely within boundary,True
+257084,0.446395470876298,travelled,3,False,False,False,Retained: entirely within boundary,True
+257285,0.50673171491735,travelled,2,False,False,False,Retained: entirely within boundary,True
+257352,1.02620787592693,travelled,5,False,True,False,Excluded: outside endpoint,False
+257417,0.388303873886463,travelled,7,False,False,False,Retained: entirely within boundary,True
+257480,0.519591293790089,travelled,2,False,False,False,Retained: entirely within boundary,True
+257535,0.505383787872611,travelled,4,False,False,False,Retained: entirely within boundary,True
+257543,0.276083703304188,travelled,4,False,False,False,Retained: entirely within boundary,True
+257640,0.947290438571718,at home all day,0,True,False,False,Retained: entirely within boundary,True
+257680,0.38112819905996,travelled,3,False,False,False,Retained: entirely within boundary,True
+257901,0.226805846202818,travelled,4,False,True,False,Excluded: outside endpoint,False
+257997,0.430643504814382,travelled,2,False,False,False,Retained: entirely within boundary,True
+258790,0.330100463376095,travelled,4,False,False,False,Retained: entirely within boundary,True
+258953,0.426316571336699,travelled,7,False,False,False,Retained: entirely within boundary,True
+260258,0.245620758337635,travelled,6,False,False,False,Retained: entirely within boundary,True
+260319,0.330247297158314,travelled,2,False,False,False,Retained: entirely within boundary,True
+260427,0.38868667172928,travelled,5,False,True,False,Excluded: outside endpoint,False
+260753,0.391859889354732,at home all day,0,True,False,False,Retained: entirely within boundary,True
+260836,0.600721150382157,travelled,2,False,False,False,Retained: entirely within boundary,True
+260878,0.451504437034312,at home all day,0,True,False,False,Retained: entirely within boundary,True
+261029,0.296881007742658,travelled,3,False,True,False,Excluded: outside endpoint,False
+261422,1.06987378569721,travelled,3,False,False,False,Retained: entirely within boundary,True
+261654,0.404315344594653,travelled,4,False,False,False,Retained: entirely within boundary,True
+261662,0.642641075285648,travelled,4,False,False,False,Retained: entirely within boundary,True
+261667,0.440092703131477,at home all day,0,True,False,False,Retained: entirely within boundary,True
+261705,0.478684436725589,travelled,5,False,False,False,Retained: entirely within boundary,True
+261754,0.358914298379302,travelled,3,False,False,False,Retained: entirely within boundary,True
+261875,0.250800507012263,travelled,3,False,False,False,Retained: entirely within boundary,True
+262078,0.247006224433109,travelled,7,False,False,False,Retained: entirely within boundary,True
+262101,0.34004405913523,travelled,3,False,False,False,Retained: entirely within boundary,True
+262436,0.553122046224357,travelled,3,False,False,False,Retained: entirely within boundary,True
+262525,0.369576447446641,travelled,8,False,False,False,Retained: entirely within boundary,True
+262824,0.652832454371213,travelled,3,False,True,False,Excluded: outside endpoint,False
+262915,0.623138862798783,travelled,5,False,False,False,Retained: entirely within boundary,True
+263310,0.507239379081352,at home all day,0,True,False,False,Retained: entirely within boundary,True
+263408,0.216094364167967,travelled,1,False,False,False,Retained: entirely within boundary,True
+263423,0.403198395360139,at home all day,0,True,False,False,Retained: entirely within boundary,True
+263499,0.420516020932487,travelled,5,False,False,False,Retained: entirely within boundary,True
+263543,0.355750923102959,travelled,1,False,True,False,Excluded: outside endpoint,False
+263629,0.692843455413644,travelled,4,False,False,False,Retained: entirely within boundary,True
+263769,0.36079211664997,travelled,2,False,True,False,Excluded: outside endpoint,False
+263879,0.215673187606946,travelled,6,False,False,False,Retained: entirely within boundary,True
+264252,0.328209025922559,at home all day,0,True,False,False,Retained: entirely within boundary,True
+264410,0.223344919018167,travelled,11,False,False,False,Retained: entirely within boundary,True
+264439,0.618559422332601,travelled,2,False,False,False,Retained: entirely within boundary,True
+264530,0.4651007372014,travelled,2,False,False,False,Retained: entirely within boundary,True
+264648,0.405706429084184,travelled,2,False,False,False,Retained: entirely within boundary,True
+264712,0.515737705089487,at home all day,0,True,False,False,Retained: entirely within boundary,True
+264767,0.330363191718892,travelled,6,False,False,False,Retained: entirely within boundary,True
+264980,0.453919761125102,travelled,5,False,False,False,Retained: entirely within boundary,True
+265504,0.837134336051239,travelled,5,False,False,False,Retained: entirely within boundary,True
+265691,0.350956156522593,travelled,4,False,False,False,Retained: entirely within boundary,True
+266310,0.26643398599272,travelled,8,False,False,False,Retained: entirely within boundary,True
+266668,0.597809584303671,travelled,6,False,True,False,Excluded: outside endpoint,False
+267220,0.690923291277625,travelled,10,False,False,False,Retained: entirely within boundary,True
+267245,0.654829475523395,travelled,6,False,False,False,Retained: entirely within boundary,True
+267295,0.437911720578423,travelled,4,False,False,False,Retained: entirely within boundary,True
+267547,0.336937307273861,travelled,8,False,False,False,Retained: entirely within boundary,True
+267885,0.771444867102096,travelled,4,False,False,False,Retained: entirely within boundary,True
+267945,0.530839973615577,travelled,2,False,False,False,Retained: entirely within boundary,True
+268029,0.371674193736636,travelled,3,False,False,False,Retained: entirely within boundary,True
+268363,0.285680269781002,travelled,6,False,True,False,Excluded: outside endpoint,False
+268441,0.352807448511451,travelled,4,False,False,False,Retained: entirely within boundary,True
+268626,0.371881512719302,travelled,2,False,False,False,Retained: entirely within boundary,True
+268869,0.53676573922484,travelled,6,False,False,False,Retained: entirely within boundary,True
+268972,0.250152829312494,travelled,5,False,False,False,Retained: entirely within boundary,True
+269007,0.312597349266236,travelled,2,False,False,False,Retained: entirely within boundary,True
+269297,0.420327963833909,travelled,6,False,False,False,Retained: entirely within boundary,True
+269318,0.577618630188061,travelled,4,False,False,False,Retained: entirely within boundary,True
+269340,0.699432257083976,travelled,2,False,False,False,Retained: entirely within boundary,True
+270212,0.374833587301529,travelled,2,False,False,False,Retained: entirely within boundary,True
+270277,0.649864891887517,travelled,2,False,True,False,Excluded: outside endpoint,False
+270402,0.409680904712396,travelled,4,False,True,False,Excluded: outside endpoint,False
+270425,0.453850604077546,at home all day,0,True,False,False,Retained: entirely within boundary,True
+270553,0.865062794876566,travelled,6,False,True,False,Excluded: outside endpoint,False
+270685,0.201064445008802,at home all day,0,True,False,False,Retained: entirely within boundary,True
+270720,0.42492075675212,travelled,5,False,False,False,Retained: entirely within boundary,True
+270854,0.673760816592274,travelled,4,False,False,False,Retained: entirely within boundary,True
+270930,0.375996561202458,travelled,2,False,False,False,Retained: entirely within boundary,True
+271209,0.263949206558152,travelled,6,False,False,False,Retained: entirely within boundary,True
+271257,0.36475618836175,travelled,4,False,False,False,Retained: entirely within boundary,True
+271428,0.391783723997086,travelled,5,False,False,False,Retained: entirely within boundary,True
+271505,0.312597349266236,travelled,3,False,False,False,Retained: entirely within boundary,True
+271909,0.430643504814382,travelled,5,False,False,False,Retained: entirely within boundary,True
+271920,0.274644948702231,travelled,6,False,True,False,Excluded: outside endpoint,False
+272070,0.690333164065437,travelled,6,False,False,False,Retained: entirely within boundary,True
+272310,0.264123298061712,travelled,3,False,True,False,Excluded: outside endpoint,False
+272644,0.596748414649986,travelled,8,False,False,False,Retained: entirely within boundary,True
+272756,0.413809674282614,travelled,6,False,False,False,Retained: entirely within boundary,True
+273030,0.755448812531198,travelled,2,False,False,False,Retained: entirely within boundary,True
+273128,0.4806975548076,travelled,5,False,True,False,Excluded: outside endpoint,False
+273363,0.474221228862404,travelled,2,False,True,False,Excluded: outside endpoint,False
+273517,0.644239928869896,travelled,8,False,False,False,Retained: entirely within boundary,True
+274075,0.447685197586557,travelled,7,False,False,False,Retained: entirely within boundary,True
+274235,0.384413325741764,travelled,4,False,False,False,Retained: entirely within boundary,True
+274737,0.225889452263418,at home all day,0,True,False,False,Retained: entirely within boundary,True
+274900,0.534620368325952,travelled,2,False,False,False,Retained: entirely within boundary,True
+274996,0.490342865632473,travelled,6,False,False,False,Retained: entirely within boundary,True
+275086,0.316393119699418,travelled,3,False,False,False,Retained: entirely within boundary,True
+275255,0.344442576329468,travelled,4,False,False,False,Retained: entirely within boundary,True
+275803,0.459244108166756,travelled,5,False,False,False,Retained: entirely within boundary,True
+275907,0.348359721911025,at home all day,0,True,False,False,Retained: entirely within boundary,True
+276246,0.42387054569477,travelled,5,False,False,False,Retained: entirely within boundary,True
+276467,0.751051331250102,travelled,1,False,False,False,Retained: entirely within boundary,True
+276469,0.259884010324439,travelled,6,False,False,False,Retained: entirely within boundary,True
+276492,0.740935180101615,travelled,4,False,False,False,Retained: entirely within boundary,True
+276767,0.413390736245327,travelled,3,False,True,False,Excluded: outside endpoint,False
+277117,0.449704079028448,travelled,7,False,False,False,Retained: entirely within boundary,True
+277285,0.284560919911566,travelled,4,False,True,False,Excluded: outside endpoint,False
+277492,0.302812178433937,travelled,9,False,False,False,Retained: entirely within boundary,True
+277902,0.348213760663684,travelled,2,False,False,False,Retained: entirely within boundary,True
+278187,0.280378179157348,travelled,7,False,False,False,Retained: entirely within boundary,True
+278211,0.28974117615047,travelled,6,False,True,False,Excluded: outside endpoint,False
+278266,0.553083408374598,travelled,6,False,False,False,Retained: entirely within boundary,True
+278313,0.395709051937982,travelled,4,False,False,False,Retained: entirely within boundary,True
+278469,0.305885594389145,travelled,2,False,False,False,Retained: entirely within boundary,True
+278609,1.04035034695428,travelled,6,False,False,False,Retained: entirely within boundary,True
+278708,0.212083755024543,travelled,6,False,False,False,Retained: entirely within boundary,True
+278823,0.333124457860924,travelled,7,False,False,False,Retained: entirely within boundary,True
+278832,0.632918211790649,travelled,3,False,False,False,Retained: entirely within boundary,True
+278999,0.345799168597393,travelled,6,False,False,False,Retained: entirely within boundary,True
+279101,1.00366658046267,travelled,4,False,False,False,Retained: entirely within boundary,True
+279152,0.278629350641592,travelled,1,False,True,False,Excluded: outside endpoint,False
+279254,0.434778286548006,travelled,2,False,True,False,Excluded: outside endpoint,False
+279284,0.539627170993815,travelled,7,False,True,False,Excluded: outside endpoint,False
+279512,0.295067320950879,travelled,2,False,False,False,Retained: entirely within boundary,True
+279555,0.60334155259709,travelled,1,False,False,False,Retained: entirely within boundary,True
+279809,0.396133352197756,travelled,5,False,False,False,Retained: entirely within boundary,True
+279851,0.36475618836175,travelled,3,False,True,False,Excluded: outside endpoint,False
+280020,0.618861527654446,at home all day,0,True,False,False,Retained: entirely within boundary,True
+280031,0.340987303300068,travelled,2,False,True,False,Excluded: outside endpoint,False
+280141,0.544205243160727,travelled,2,False,False,False,Retained: entirely within boundary,True
+280196,0.29585586973705,travelled,3,False,False,False,Retained: entirely within boundary,True
+280456,0.308644388112916,travelled,3,False,False,False,Retained: entirely within boundary,True
+280799,0.196878743933867,travelled,2,False,True,False,Excluded: outside endpoint,False
+280998,0.367389295901263,travelled,2,False,False,False,Retained: entirely within boundary,True
+281194,0.371674193736636,travelled,6,False,False,False,Retained: entirely within boundary,True
+281231,0.309379170248382,travelled,4,False,False,False,Retained: entirely within boundary,True
+281441,0.460336904698261,travelled,2,False,True,False,Excluded: outside endpoint,False
+281604,0.611119559579861,travelled,13,False,False,False,Retained: entirely within boundary,True
+281696,0.85164259450789,travelled,5,False,True,False,Excluded: outside endpoint,False
+282024,0.429013711863972,travelled,2,False,False,False,Retained: entirely within boundary,True
+282118,0.55316092539496,travelled,1,False,True,False,Excluded: outside endpoint,False
+282199,0.252465748350424,travelled,13,False,False,False,Retained: entirely within boundary,True
+282463,0.362301530593728,travelled,2,False,False,False,Retained: entirely within boundary,True
+282541,0.241532910595993,travelled,3,False,False,False,Retained: entirely within boundary,True
+282670,0.216878751327242,travelled,2,False,False,False,Retained: entirely within boundary,True
+282717,0.400621389603662,travelled,6,False,False,False,Retained: entirely within boundary,True
+282718,0.498472895958881,travelled,5,False,True,False,Excluded: outside endpoint,False
+282891,0.682188433299139,travelled,2,False,False,False,Retained: entirely within boundary,True
+282953,0.377174543769471,travelled,3,False,False,False,Retained: entirely within boundary,True
+283213,0.257255615225241,travelled,2,False,False,False,Retained: entirely within boundary,True
+283372,0.29585586973705,travelled,4,False,False,False,Retained: entirely within boundary,True
+283684,0.260815079843185,travelled,2,False,False,False,Retained: entirely within boundary,True
+283835,0.210146089645638,travelled,6,False,False,False,Retained: entirely within boundary,True
+283992,0.656317670268021,travelled,6,False,False,False,Retained: entirely within boundary,True
+284073,0.308822525177882,travelled,6,False,True,False,Excluded: outside endpoint,False
+284443,0.3500607161319,travelled,3,False,False,False,Retained: entirely within boundary,True
+284842,0.355750923102959,travelled,4,False,False,False,Retained: entirely within boundary,True
+285152,0.367895368090366,travelled,4,False,False,False,Retained: entirely within boundary,True
+285160,0.371674193736636,travelled,4,False,False,False,Retained: entirely within boundary,True
+285486,0.618337490924442,travelled,1,False,False,False,Retained: entirely within boundary,True
+285640,0.202918372505998,travelled,2,False,False,False,Retained: entirely within boundary,True
+285737,0.268955295797836,travelled,4,False,False,False,Retained: entirely within boundary,True
+285822,0.597097060378497,travelled,5,False,True,False,Excluded: outside endpoint,False
+286490,0.349530578898966,travelled,4,False,False,False,Retained: entirely within boundary,True
+286584,0.418101110682218,at home all day,0,True,False,False,Retained: entirely within boundary,True
+287008,0.267918202173253,travelled,1,False,True,False,Excluded: outside endpoint,False
+287056,0.2686200781524,travelled,2,False,False,False,Retained: entirely within boundary,True
+287247,0.734404774261865,travelled,2,False,False,False,Retained: entirely within boundary,True
+287484,0.514199100561803,travelled,4,False,False,False,Retained: entirely within boundary,True
+288272,0.197332784052836,travelled,6,False,False,False,Retained: entirely within boundary,True
+288616,0.490441048325651,travelled,4,False,False,False,Retained: entirely within boundary,True
+288715,0.414564845143361,travelled,4,False,True,False,Excluded: outside endpoint,False
+288771,0.262280287362882,travelled,4,False,False,False,Retained: entirely within boundary,True
+289147,0.396132357080749,travelled,6,False,False,False,Retained: entirely within boundary,True
+289472,0.470633427267162,travelled,4,False,False,False,Retained: entirely within boundary,True
+289825,0.298692054042553,travelled,4,False,False,False,Retained: entirely within boundary,True
+289896,0.488736073388549,travelled,5,False,False,False,Retained: entirely within boundary,True
+290127,0.320417871724068,travelled,4,False,False,False,Retained: entirely within boundary,True
+290723,0.739618748256429,travelled,7,False,False,False,Retained: entirely within boundary,True
+290766,0.376284872636267,travelled,6,False,False,False,Retained: entirely within boundary,True
+290776,0.633547466860995,travelled,4,False,False,False,Retained: entirely within boundary,True
+291323,0.33687072639085,travelled,4,False,False,False,Retained: entirely within boundary,True
+291334,0.349426037775239,travelled,2,False,True,False,Excluded: outside endpoint,False
+291407,0.398986431862516,travelled,2,False,True,False,Excluded: outside endpoint,False
+291974,1.1112488030616,travelled,6,False,False,False,Retained: entirely within boundary,True
+292079,0.54045915431979,travelled,6,False,True,False,Excluded: outside endpoint,False
+292739,0.349530578898966,travelled,4,False,False,False,Retained: entirely within boundary,True
+292753,0.256375965583707,travelled,8,False,False,False,Retained: entirely within boundary,True
+292965,0.276716838838226,travelled,1,False,False,False,Retained: entirely within boundary,True
+293007,0.362107826970876,travelled,6,False,False,False,Retained: entirely within boundary,True
+293075,0.535249729728417,travelled,5,False,False,False,Retained: entirely within boundary,True
+293085,0.478180755674864,travelled,2,False,False,False,Retained: entirely within boundary,True
+293784,0.429591145141423,travelled,7,False,False,False,Retained: entirely within boundary,True
+293877,0.461598297676246,travelled,3,False,False,False,Retained: entirely within boundary,True
+293949,0.450008049135775,travelled,5,False,True,False,Excluded: outside endpoint,False
+294293,0.381452011563245,travelled,2,False,True,False,Excluded: outside endpoint,False
+294471,0.236863036346795,travelled,8,False,False,False,Retained: entirely within boundary,True
+294486,0.533194444775764,travelled,2,False,False,False,Retained: entirely within boundary,True
+294857,0.32826547854558,travelled,4,False,False,False,Retained: entirely within boundary,True
+294985,0.203167356088854,travelled,6,False,False,False,Retained: entirely within boundary,True
+295236,0.456467228914455,travelled,6,False,False,False,Retained: entirely within boundary,True
+295518,0.245995760409453,travelled,4,False,False,False,Retained: entirely within boundary,True
+296534,0.419759414823774,travelled,4,False,False,False,Retained: entirely within boundary,True
+296553,0.607283659167133,travelled,3,False,True,False,Excluded: outside endpoint,False
+296653,0.287184731963609,at home all day,0,True,False,False,Retained: entirely within boundary,True
+296689,0.453850604077546,travelled,2,False,False,False,Retained: entirely within boundary,True
+296879,0.469685705881161,travelled,6,False,False,False,Retained: entirely within boundary,True
+297045,0.34607231396338,travelled,1,False,False,False,Retained: entirely within boundary,True
+297185,0.885222738597933,travelled,3,False,True,False,Excluded: outside endpoint,False
+297247,0.518941904563293,travelled,3,False,False,False,Retained: entirely within boundary,True
+297377,0.210146089645638,travelled,4,False,False,False,Retained: entirely within boundary,True
+297809,0.953596839194943,travelled,2,False,True,False,Excluded: outside endpoint,False
+297860,0.214897277320342,travelled,1,False,False,False,Retained: entirely within boundary,True
+298421,0.24464381984377,at home all day,0,True,False,False,Retained: entirely within boundary,True
+298488,0.356945391756373,travelled,3,False,False,False,Retained: entirely within boundary,True
+298536,0.388812015529125,travelled,4,False,False,False,Retained: entirely within boundary,True
+298659,0.366988924781205,travelled,4,False,False,False,Retained: entirely within boundary,True
+298895,0.538110798049853,travelled,6,False,False,False,Retained: entirely within boundary,True
+298919,0.5065549904692,travelled,4,False,True,False,Excluded: outside endpoint,False
+299059,0.372002583072594,travelled,5,False,True,False,Excluded: outside endpoint,False
+299061,1.45696585707375,travelled,2,False,False,False,Retained: entirely within boundary,True
+299079,0.388812015529125,travelled,3,False,False,False,Retained: entirely within boundary,True
+299205,0.37580045236976,travelled,6,False,False,False,Retained: entirely within boundary,True
+299350,0.324515683047295,travelled,2,False,False,False,Retained: entirely within boundary,True
+299384,0.304230196069773,travelled,2,False,False,False,Retained: entirely within boundary,True
+299609,0.421449213771285,travelled,6,False,False,False,Retained: entirely within boundary,True
+299916,0.400844855263443,at home all day,0,True,False,False,Retained: entirely within boundary,True
+300119,0.296766866437542,travelled,5,False,False,False,Retained: entirely within boundary,True
+300369,0.35625264169278,at home all day,0,True,False,False,Retained: entirely within boundary,True
+300474,0.243570178553337,travelled,3,False,False,False,Retained: entirely within boundary,True
+300502,1.24586966117193,travelled,3,False,False,False,Retained: entirely within boundary,True
+300873,0.521660109357873,travelled,7,False,False,False,Retained: entirely within boundary,True
+301006,0.24294408814451,travelled,7,False,False,False,Retained: entirely within boundary,True
+301659,0.620952942583737,travelled,3,False,False,False,Retained: entirely within boundary,True
+301664,0.285680269781002,travelled,2,False,False,False,Retained: entirely within boundary,True
+301784,0.618891478220793,travelled,2,False,False,False,Retained: entirely within boundary,True
+301842,0.498936965094767,travelled,6,False,True,False,Excluded: outside endpoint,False
+302019,0.671180103514595,travelled,2,False,False,False,Retained: entirely within boundary,True
+302058,0.516894054865196,travelled,3,False,False,False,Retained: entirely within boundary,True
+302134,0.509038338206449,travelled,7,False,True,False,Excluded: outside endpoint,False
+302318,0.336264617617947,travelled,3,False,True,False,Excluded: outside endpoint,False
+302766,0.396177356473026,travelled,3,False,False,False,Retained: entirely within boundary,True
+302897,0.446394761594194,travelled,10,False,False,False,Retained: entirely within boundary,True
+302932,0.456729193520744,travelled,3,False,False,False,Retained: entirely within boundary,True
+302997,0.559746324731159,travelled,7,False,False,False,Retained: entirely within boundary,True
+303251,0.503214992876319,travelled,7,False,True,False,Excluded: outside endpoint,False
+303255,0.424110979789629,travelled,3,False,False,False,Retained: entirely within boundary,True
+303323,0.388877737058301,travelled,4,False,False,False,Retained: entirely within boundary,True
+303513,0.69678603455075,travelled,2,False,True,False,Excluded: outside endpoint,False
+304268,0.201064445008802,travelled,8,False,False,False,Retained: entirely within boundary,True
+304301,0.61910797417382,travelled,3,False,False,False,Retained: entirely within boundary,True
+304431,0.774531039033573,travelled,7,False,False,False,Retained: entirely within boundary,True
+304444,0.276569582000803,travelled,4,False,False,False,Retained: entirely within boundary,True
+304675,0.499104739842576,travelled,2,False,False,False,Retained: entirely within boundary,True
+305157,0.502172581009973,travelled,5,False,False,False,Retained: entirely within boundary,True
+305195,0.509318875258281,travelled,4,False,False,False,Retained: entirely within boundary,True
+305239,0.260724069872353,at home all day,0,True,False,False,Retained: entirely within boundary,True
+305335,0.430730199560615,travelled,5,False,False,False,Retained: entirely within boundary,True
+305628,0.61910797417382,travelled,2,False,False,False,Retained: entirely within boundary,True
+305629,0.723931100369975,travelled,7,False,True,False,Excluded: outside endpoint,False
+305819,0.286843167160721,travelled,4,False,True,False,Excluded: outside endpoint,False
+305908,0.406308914378737,travelled,5,False,False,False,Retained: entirely within boundary,True
+305913,0.680133670663389,at home all day,0,True,False,False,Retained: entirely within boundary,True
+306029,0.471627800814749,travelled,4,False,True,False,Excluded: outside endpoint,False
+306126,0.779567693000026,travelled,4,False,False,False,Retained: entirely within boundary,True
+307549,0.317090687413162,travelled,2,False,False,False,Retained: entirely within boundary,True
+307669,0.386181622825272,travelled,3,False,False,False,Retained: entirely within boundary,True
+308184,0.396954020625494,travelled,10,False,False,False,Retained: entirely within boundary,True
+308262,0.263218348971162,travelled,8,False,False,False,Retained: entirely within boundary,True
+308492,0.19915230353296,travelled,6,False,False,False,Retained: entirely within boundary,True
+308728,0.298469619848064,at home all day,0,True,False,False,Retained: entirely within boundary,True
+308834,0.552534061820598,travelled,2,False,False,False,Retained: entirely within boundary,True
+308963,0.376268350276488,travelled,4,False,False,False,Retained: entirely within boundary,True
+309437,0.234870151101311,travelled,2,False,False,False,Retained: entirely within boundary,True
+309531,0.684920150106051,travelled,3,False,False,False,Retained: entirely within boundary,True
+309723,0.43731257451403,travelled,4,False,False,False,Retained: entirely within boundary,True
+310871,0.330848282867395,travelled,7,False,False,False,Retained: entirely within boundary,True
+311022,0.518948724194559,travelled,3,False,False,False,Retained: entirely within boundary,True
+311092,0.326702338465525,travelled,2,False,False,False,Retained: entirely within boundary,True
+311263,0.295323089709137,at home all day,0,True,False,False,Retained: entirely within boundary,True
+311569,0.299659134054062,travelled,7,False,False,False,Retained: entirely within boundary,True
+311941,0.48364142658156,travelled,11,False,False,False,Retained: entirely within boundary,True
+312209,0.43096061159237,travelled,2,False,False,False,Retained: entirely within boundary,True
+312241,0.392269161644381,travelled,3,False,True,False,Excluded: outside endpoint,False
+312261,0.363845867909025,travelled,2,False,False,False,Retained: entirely within boundary,True
+312459,0.309379170248382,at home all day,0,True,False,False,Retained: entirely within boundary,True
+312662,0.487839922971373,travelled,6,False,True,False,Excluded: outside endpoint,False
+312827,0.442425628864038,travelled,2,False,True,False,Excluded: outside endpoint,False
+313516,0.665287671124618,travelled,6,False,False,False,Retained: entirely within boundary,True
+313641,0.531430111676316,travelled,4,False,False,False,Retained: entirely within boundary,True
+313870,0.380762112041272,travelled,3,False,False,False,Retained: entirely within boundary,True
+313875,0.994700889563076,travelled,4,False,False,False,Retained: entirely within boundary,True
+313892,0.582618819469878,travelled,4,False,False,False,Retained: entirely within boundary,True
+313933,0.31196254269449,at home all day,0,True,False,False,Retained: entirely within boundary,True
+314049,0.626218826891748,travelled,3,False,False,False,Retained: entirely within boundary,True
+314082,0.393327321057231,travelled,4,False,True,False,Excluded: outside endpoint,False
+314116,0.306137186498896,travelled,6,False,False,False,Retained: entirely within boundary,True
+314120,0.497075189609593,travelled,2,False,False,False,Retained: entirely within boundary,True
+314322,0.438289936593175,travelled,2,False,False,False,Retained: entirely within boundary,True
+314924,0.292930164939067,travelled,6,False,False,False,Retained: entirely within boundary,True
+315194,0.544527515049566,travelled,2,False,True,False,Excluded: outside endpoint,False
+315195,0.316393119699418,travelled,6,False,False,False,Retained: entirely within boundary,True
+315560,0.570319051502454,travelled,3,False,True,False,Excluded: outside endpoint,False
+315579,0.320418328153055,travelled,2,False,False,False,Retained: entirely within boundary,True
+315709,0.221049010054458,travelled,4,False,False,False,Retained: entirely within boundary,True
+315727,0.552263767062385,travelled,4,False,True,False,Excluded: outside endpoint,False
+315874,0.438551097659879,travelled,4,False,False,False,Retained: entirely within boundary,True
+315966,0.326702338465525,travelled,6,False,False,False,Retained: entirely within boundary,True
+316836,0.759802263430009,travelled,2,False,True,False,Excluded: outside endpoint,False
+317938,0.821300137627922,travelled,4,False,False,False,Retained: entirely within boundary,True
+318348,0.388110964396393,travelled,5,False,False,False,Retained: entirely within boundary,True
+318497,0.40945346011849,travelled,3,False,False,False,Retained: entirely within boundary,True
+318787,0.572404020192664,travelled,5,False,False,False,Retained: entirely within boundary,True
+319242,0.279176561789306,travelled,2,False,False,False,Retained: entirely within boundary,True
+319972,0.367200731864351,travelled,5,False,True,False,Excluded: outside endpoint,False
+320230,0.467093040752765,travelled,5,False,False,False,Retained: entirely within boundary,True
+320340,0.22730589638011,travelled,2,False,False,False,Retained: entirely within boundary,True
+320552,0.452262406146608,travelled,7,False,False,False,Retained: entirely within boundary,True
+320559,0.717947340940004,at home all day,0,True,False,False,Retained: entirely within boundary,True
+320740,0.230961224904451,travelled,4,False,False,False,Retained: entirely within boundary,True
+320988,0.255497560692521,travelled,4,False,False,False,Retained: entirely within boundary,True
+321488,0.675722839376093,travelled,6,False,False,False,Retained: entirely within boundary,True
+321889,0.372679172339308,at home all day,0,True,False,False,Retained: entirely within boundary,True
+322389,0.345799168597393,travelled,5,False,False,False,Retained: entirely within boundary,True
+322398,0.30259690601739,travelled,2,False,False,False,Retained: entirely within boundary,True
+322413,0.20628091660632,at home all day,0,True,False,False,Retained: entirely within boundary,True
+322867,0.275685113189817,travelled,5,False,False,False,Retained: entirely within boundary,True
+323450,0.335716527349277,travelled,5,False,True,False,Excluded: outside endpoint,False
+323613,0.245243109079288,travelled,6,False,False,False,Retained: entirely within boundary,True
+323743,0.675722839376093,travelled,2,False,False,False,Retained: entirely within boundary,True
+323840,0.253642797175243,travelled,4,False,False,False,Retained: entirely within boundary,True
+323907,0.512943034971571,travelled,6,False,False,False,Retained: entirely within boundary,True
+324092,0.408484404650662,travelled,5,False,False,False,Retained: entirely within boundary,True
+324484,0.339421390761961,at home all day,0,True,False,False,Retained: entirely within boundary,True
+324752,0.277816553960309,travelled,4,False,True,False,Excluded: outside endpoint,False
+324761,0.368009034368929,travelled,2,False,False,False,Retained: entirely within boundary,True
+324986,0.276219416791287,travelled,7,False,False,False,Retained: entirely within boundary,True
+325557,0.552443562957319,travelled,4,False,True,False,Excluded: outside endpoint,False
+325893,0.214120056574364,at home all day,0,True,False,False,Retained: entirely within boundary,True
+325904,0.766960947636302,travelled,5,False,False,False,Retained: entirely within boundary,True
+326320,0.592553905709994,travelled,2,False,False,False,Retained: entirely within boundary,True
+327357,0.464163559403644,travelled,6,False,False,False,Retained: entirely within boundary,True
+327378,0.420890369016098,travelled,6,False,False,False,Retained: entirely within boundary,True
+327834,1.34916630106374,travelled,5,False,False,False,Retained: entirely within boundary,True
+328109,0.306137186498896,travelled,4,False,False,False,Retained: entirely within boundary,True
+328269,0.212083755024543,travelled,3,False,False,False,Retained: entirely within boundary,True
+328297,0.394182403168672,at home all day,0,True,False,False,Retained: entirely within boundary,True
+328441,0.278766315483526,travelled,4,False,False,False,Retained: entirely within boundary,True
+328484,0.523098447469113,travelled,6,False,False,False,Retained: entirely within boundary,True
+328796,0.630903991229273,travelled,2,False,True,False,Excluded: outside endpoint,False
+329002,0.333605350069879,travelled,2,False,False,False,Retained: entirely within boundary,True
+329090,0.301511364303964,travelled,4,False,False,False,Retained: entirely within boundary,True
+330231,0.272491263716297,travelled,5,False,False,False,Retained: entirely within boundary,True
+330450,0.395906504923774,travelled,6,False,False,False,Retained: entirely within boundary,True
+331082,0.595209144677585,travelled,4,False,False,False,Retained: entirely within boundary,True
+331783,0.775482952855905,travelled,5,False,False,False,Retained: entirely within boundary,True
+331866,0.494544758458201,at home all day,0,True,False,False,Retained: entirely within boundary,True
+332115,0.423033073740467,at home all day,0,True,False,False,Retained: entirely within boundary,True
+332847,0.69828490298135,travelled,2,False,False,False,Retained: entirely within boundary,True
+333186,0.468211555874802,travelled,2,False,False,False,Retained: entirely within boundary,True
+333389,0.327618092956361,travelled,2,False,True,False,Excluded: outside endpoint,False
+334286,0.25688315375097,travelled,7,False,False,False,Retained: entirely within boundary,True
+334844,0.480730395230399,travelled,2,False,False,False,Retained: entirely within boundary,True
+334993,0.673462192948825,travelled,5,False,False,False,Retained: entirely within boundary,True
+335036,0.477397542410287,travelled,3,False,False,False,Retained: entirely within boundary,True
+335632,0.357686420782288,travelled,4,False,True,False,Excluded: outside endpoint,False
+335901,0.706534916797499,travelled,2,False,False,False,Retained: entirely within boundary,True
+335913,0.5702174635656,travelled,5,False,False,False,Retained: entirely within boundary,True
+336380,0.308223933824153,travelled,3,False,False,False,Retained: entirely within boundary,True
+336404,0.646799084853196,travelled,4,False,True,False,Excluded: outside endpoint,False
+336434,0.346104421585024,travelled,3,False,False,False,Retained: entirely within boundary,True
+336759,0.604175818828872,travelled,3,False,False,False,Retained: entirely within boundary,True
+336906,0.317186894544007,travelled,6,False,False,False,Retained: entirely within boundary,True
+337408,0.278629350641592,travelled,6,False,False,False,Retained: entirely within boundary,True
+337533,0.410055311553482,travelled,5,False,False,False,Retained: entirely within boundary,True
+337752,0.503552038035925,travelled,8,False,True,False,Excluded: outside endpoint,False
+337761,0.219751674703272,travelled,2,False,False,False,Retained: entirely within boundary,True
+338310,0.394182403168672,at home all day,0,True,False,False,Retained: entirely within boundary,True
+338391,0.277816553960309,travelled,10,False,False,False,Retained: entirely within boundary,True
+338392,0.339769439968248,travelled,4,False,False,False,Retained: entirely within boundary,True
+338536,0.360779361802754,travelled,2,False,False,False,Retained: entirely within boundary,True
+338889,0.285680269781002,at home all day,0,True,False,False,Retained: entirely within boundary,True
+339136,0.304230196069773,travelled,4,False,False,False,Retained: entirely within boundary,True
+339179,0.541961637523635,travelled,6,False,False,False,Retained: entirely within boundary,True
+339389,0.464783198630244,travelled,7,False,True,False,Excluded: outside endpoint,False
+339731,0.236959502829395,travelled,1,False,False,False,Retained: entirely within boundary,True
+340594,0.442425628864038,travelled,6,False,False,False,Retained: entirely within boundary,True
+340939,0.436399049280788,travelled,2,False,False,False,Retained: entirely within boundary,True
+340947,0.400748449989397,at home all day,0,True,False,False,Retained: entirely within boundary,True
+340979,0.36156935587884,travelled,2,False,False,False,Retained: entirely within boundary,True
+341651,0.288600762326412,travelled,5,False,False,False,Retained: entirely within boundary,True
+341659,0.259099368365571,travelled,7,False,False,False,Retained: entirely within boundary,True
+341977,0.677541081326703,travelled,2,False,True,False,Excluded: outside endpoint,False
+342149,0.769397655783731,travelled,4,False,False,False,Retained: entirely within boundary,True
+342239,0.392270581895401,at home all day,0,True,False,False,Retained: entirely within boundary,True
+342405,0.434971752589937,travelled,5,False,False,False,Retained: entirely within boundary,True
+342582,0.368123369456526,travelled,5,False,False,False,Retained: entirely within boundary,True
+342860,0.4387887317039,travelled,3,False,False,False,Retained: entirely within boundary,True
+343152,0.44272108048928,travelled,10,False,False,False,Retained: entirely within boundary,True
+343597,0.677541081326703,travelled,6,False,True,False,Excluded: outside endpoint,False
+343809,0.478735699172278,travelled,7,False,False,False,Retained: entirely within boundary,True
+344721,0.410920146055179,travelled,3,False,False,False,Retained: entirely within boundary,True
+344746,0.225229156623282,travelled,3,False,True,False,Excluded: outside endpoint,False
+345250,0.451080494110351,travelled,4,False,True,False,Excluded: outside endpoint,False
+345342,0.356388959789403,travelled,2,False,False,False,Retained: entirely within boundary,True
+345461,1.08692677344364,travelled,2,False,False,False,Retained: entirely within boundary,True
+345469,0.317186894544007,travelled,4,False,False,False,Retained: entirely within boundary,True
+345556,0.580394135475545,travelled,5,False,False,False,Retained: entirely within boundary,True
+346514,0.383845143351777,travelled,5,False,False,False,Retained: entirely within boundary,True
+346790,0.37045167031094,travelled,7,False,False,False,Retained: entirely within boundary,True
+346868,0.557403015017239,travelled,7,False,False,False,Retained: entirely within boundary,True
+347012,0.259088669411039,travelled,7,False,False,False,Retained: entirely within boundary,True
+347192,0.392270581895401,travelled,2,False,False,False,Retained: entirely within boundary,True
+347557,0.35709306077196,travelled,6,False,False,False,Retained: entirely within boundary,True
+348077,0.526141196836729,travelled,2,False,False,False,Retained: entirely within boundary,True
+348477,0.331775658539832,travelled,3,False,False,False,Retained: entirely within boundary,True
+348633,0.565064482534144,travelled,1,False,False,False,Retained: entirely within boundary,True
+348747,0.563365439468508,travelled,6,False,False,False,Retained: entirely within boundary,True
+348750,0.656922233873753,travelled,2,False,False,False,Retained: entirely within boundary,True
+349176,0.438289936593175,travelled,3,False,False,False,Retained: entirely within boundary,True
+349955,0.288600762326412,travelled,5,False,False,False,Retained: entirely within boundary,True
+350280,0.313486742733268,travelled,4,False,False,False,Retained: entirely within boundary,True
+350339,0.430997710798299,travelled,5,False,False,False,Retained: entirely within boundary,True
+350388,0.464690164454883,travelled,5,False,False,False,Retained: entirely within boundary,True
+350558,0.308319163801372,travelled,3,False,False,False,Retained: entirely within boundary,True
+350623,0.410055311553482,travelled,6,False,False,False,Retained: entirely within boundary,True
+351186,0.588428675581826,travelled,2,False,True,False,Excluded: outside endpoint,False
+351327,0.308319163801372,travelled,2,False,False,False,Retained: entirely within boundary,True
+351620,0.327618092956361,travelled,6,False,False,False,Retained: entirely within boundary,True
+351639,0.37353166157696,travelled,4,False,True,False,Excluded: outside endpoint,False
+351707,0.612370367160894,travelled,5,False,False,False,Retained: entirely within boundary,True
+352074,0.519724812457521,travelled,9,False,False,False,Retained: entirely within boundary,True
+352445,0.278629350641592,travelled,4,False,True,False,Excluded: outside endpoint,False
+352542,0.678837971099058,travelled,4,False,False,False,Retained: entirely within boundary,True
+352607,0.411330918041243,travelled,4,False,False,False,Retained: entirely within boundary,True
+352695,0.424117366638588,travelled,3,False,True,False,Excluded: outside endpoint,False
+352777,0.290253860763984,travelled,6,False,False,False,Retained: entirely within boundary,True
+352850,0.234065430233459,travelled,2,False,True,False,Excluded: outside endpoint,False
+353718,0.322189854011842,travelled,2,False,True,False,Excluded: outside endpoint,False
+353756,0.464163559403644,travelled,5,False,False,False,Retained: entirely within boundary,True
+353757,0.358973532910204,travelled,3,False,False,False,Retained: entirely within boundary,True
+353797,0.437824981677002,travelled,7,False,False,False,Retained: entirely within boundary,True
+353838,0.298583827591997,travelled,5,False,False,False,Retained: entirely within boundary,True
+353852,0.360385660039792,travelled,4,False,False,False,Retained: entirely within boundary,True
+353879,0.459794797527504,travelled,2,False,False,False,Retained: entirely within boundary,True
+354232,0.403300034126432,travelled,2,False,False,False,Retained: entirely within boundary,True
+354264,0.506180462579574,travelled,2,False,True,False,Excluded: outside endpoint,False
+354314,0.49561572637909,travelled,7,False,False,False,Retained: entirely within boundary,True
+354467,0.56619715640088,travelled,3,False,False,False,Retained: entirely within boundary,True
+354747,0.891419413534918,travelled,3,False,True,False,Excluded: outside endpoint,False
+354751,0.38495473814585,travelled,3,False,True,False,Excluded: outside endpoint,False
+354763,0.218998753322883,travelled,2,False,False,False,Retained: entirely within boundary,True
+355256,0.403214112675931,travelled,6,False,False,False,Retained: entirely within boundary,True
+355409,0.54293509116176,travelled,1,False,False,False,Retained: entirely within boundary,True
+355715,0.325199471968109,travelled,6,False,False,False,Retained: entirely within boundary,True
+355777,0.367200731864351,travelled,4,False,True,False,Excluded: outside endpoint,False
+356056,0.240724472839449,travelled,2,False,False,False,Retained: entirely within boundary,True
+356579,0.526188996229825,travelled,3,False,False,False,Retained: entirely within boundary,True
+356676,0.29585586973705,at home all day,0,True,False,False,Retained: entirely within boundary,True
+356871,0.562519530142319,travelled,6,False,False,False,Retained: entirely within boundary,True
+357020,0.333099831376149,travelled,4,False,False,False,Retained: entirely within boundary,True
+357218,0.268955295797836,travelled,6,False,False,False,Retained: entirely within boundary,True
+357339,0.240724472839449,travelled,2,False,False,False,Retained: entirely within boundary,True
+357462,0.35709306077196,travelled,5,False,False,False,Retained: entirely within boundary,True
+357465,0.361178960832372,travelled,2,False,False,False,Retained: entirely within boundary,True
+357818,0.587729098246324,at home all day,0,True,False,False,Retained: entirely within boundary,True
+357985,0.517822482937213,at home all day,0,True,False,False,Retained: entirely within boundary,True
+358109,0.429342218471189,travelled,4,False,False,False,Retained: entirely within boundary,True
+358157,0.35873574329726,travelled,4,False,False,False,Retained: entirely within boundary,True
+358562,0.4289038513955,travelled,4,False,False,False,Retained: entirely within boundary,True
+358814,0.500140426256712,travelled,6,False,True,False,Excluded: outside endpoint,False
+359108,0.320014442254424,travelled,3,False,True,False,Excluded: outside endpoint,False
+359132,0.250829039145355,travelled,5,False,False,False,Retained: entirely within boundary,True
+359161,0.340226920658601,travelled,4,False,False,False,Retained: entirely within boundary,True
+359401,0.350956156522593,travelled,9,False,False,False,Retained: entirely within boundary,True
+359448,0.273202846357623,travelled,6,False,False,False,Retained: entirely within boundary,True
+359582,0.347791917379794,travelled,3,False,True,False,Excluded: outside endpoint,False
+359658,0.333605350069879,travelled,1,False,False,False,Retained: entirely within boundary,True
+359800,0.763384671067645,travelled,6,False,False,False,Retained: entirely within boundary,True
+359887,0.463265707021139,travelled,2,False,False,False,Retained: entirely within boundary,True
+359890,0.308223933824153,travelled,7,False,True,False,Excluded: outside endpoint,False
+359896,0.791286628306085,travelled,1,False,True,False,Excluded: outside endpoint,False
+360633,0.447578503965155,travelled,4,False,False,False,Retained: entirely within boundary,True
+361209,0.489885261366642,travelled,7,False,False,False,Retained: entirely within boundary,True
+361267,0.234065430233459,travelled,2,False,False,False,Retained: entirely within boundary,True
+361304,0.390928311026763,travelled,8,False,False,False,Retained: entirely within boundary,True
+361374,0.259727513948007,travelled,8,False,True,False,Excluded: outside endpoint,False
+361439,0.418708392799431,travelled,3,False,False,False,Retained: entirely within boundary,True
+362078,0.311092570209475,travelled,4,False,False,False,Retained: entirely within boundary,True
+362196,0.895500732192786,travelled,6,False,False,False,Retained: entirely within boundary,True
+362513,0.371402285065258,travelled,3,False,True,False,Excluded: outside endpoint,False
+363006,0.208067964836757,travelled,5,False,False,False,Retained: entirely within boundary,True
+363454,0.682880127333763,at home all day,0,True,False,False,Retained: entirely within boundary,True
+363747,0.482989292294215,travelled,2,False,False,False,Retained: entirely within boundary,True
+363912,0.363223702538176,travelled,8,False,False,False,Retained: entirely within boundary,True
+364176,0.455984753537258,at home all day,0,True,False,False,Retained: entirely within boundary,True
+364247,0.236959502829395,travelled,5,False,True,False,Excluded: outside endpoint,False
+364307,0.389357791705448,at home all day,0,True,False,False,Retained: entirely within boundary,True
+364363,0.446554131522279,travelled,9,False,False,False,Retained: entirely within boundary,True
+364395,0.334973808653472,at home all day,0,True,False,False,Retained: entirely within boundary,True
+365012,0.46017448763784,travelled,2,False,False,False,Retained: entirely within boundary,True
+365116,0.585389290707479,travelled,2,False,False,False,Retained: entirely within boundary,True
+365169,0.514437861761596,travelled,2,False,False,False,Retained: entirely within boundary,True
+365173,0.322022519885928,travelled,7,False,False,False,Retained: entirely within boundary,True
+365263,0.437384958444013,travelled,6,False,True,False,Excluded: outside endpoint,False
+365449,0.28910491353469,travelled,4,False,False,False,Retained: entirely within boundary,True
+365603,0.585997239010336,travelled,6,False,False,False,Retained: entirely within boundary,True
+365684,0.355458218199299,travelled,8,False,False,False,Retained: entirely within boundary,True
+365801,0.245867998827162,travelled,2,False,False,False,Retained: entirely within boundary,True
+366613,1.16629360130617,travelled,2,False,False,False,Retained: entirely within boundary,True
+366700,0.225229156623282,travelled,4,False,False,False,Retained: entirely within boundary,True
+367580,0.727713470290724,travelled,3,False,True,False,Excluded: outside endpoint,False
+367830,0.464690164454883,travelled,5,False,False,False,Retained: entirely within boundary,True
+368402,0.47206360125655,travelled,7,False,True,False,Excluded: outside endpoint,False
+368549,0.460143183108125,travelled,4,False,False,False,Retained: entirely within boundary,True
+368657,0.22451781047867,travelled,8,False,False,False,Retained: entirely within boundary,True
+368722,0.329530906589172,travelled,8,False,False,False,Retained: entirely within boundary,True
+368741,0.373867443487254,travelled,2,False,False,False,Retained: entirely within boundary,True
+368826,0.412745080623947,travelled,5,False,False,False,Retained: entirely within boundary,True
+368828,0.396954020625494,travelled,2,False,False,False,Retained: entirely within boundary,True
+368891,0.367665125626009,travelled,2,False,False,False,Retained: entirely within boundary,True
+368906,0.514437861761596,travelled,4,False,False,False,Retained: entirely within boundary,True
+369066,0.357686420782288,travelled,7,False,True,False,Excluded: outside endpoint,False
+369573,0.354516242184101,travelled,4,False,False,False,Retained: entirely within boundary,True
+369830,0.390992829089222,travelled,4,False,False,False,Retained: entirely within boundary,True
+370150,0.507239379081352,travelled,8,False,False,False,Retained: entirely within boundary,True
+370226,0.422421606063961,travelled,4,False,False,False,Retained: entirely within boundary,True
+370820,0.462727447840774,travelled,9,False,False,False,Retained: entirely within boundary,True
+370917,0.385646181163983,travelled,2,False,True,False,Excluded: outside endpoint,False
+370989,0.347791917379794,travelled,2,False,False,False,Retained: entirely within boundary,True
+371101,0.298469619848064,travelled,6,False,False,False,Retained: entirely within boundary,True
+371229,0.261152122883511,travelled,4,False,False,False,Retained: entirely within boundary,True
+371895,0.354418482632221,travelled,6,False,True,False,Excluded: outside endpoint,False
+372123,0.438844235903304,travelled,6,False,False,False,Retained: entirely within boundary,True
+372452,0.524648166301216,travelled,6,False,False,False,Retained: entirely within boundary,True
+372470,0.523704728708616,travelled,3,False,False,False,Retained: entirely within boundary,True
+372721,0.228732231650525,travelled,2,False,False,False,Retained: entirely within boundary,True
+373215,0.847688233054325,travelled,2,False,False,False,Retained: entirely within boundary,True
+373805,0.546768089727717,travelled,6,False,False,False,Retained: entirely within boundary,True
+374113,0.646622676227397,at home all day,0,True,False,False,Retained: entirely within boundary,True
+374148,0.320401964770759,travelled,10,False,False,False,Retained: entirely within boundary,True
+374203,0.300413337032968,travelled,6,False,False,False,Retained: entirely within boundary,True
+374771,0.407649934674789,travelled,2,False,False,False,Retained: entirely within boundary,True
+374775,0.389257764667567,travelled,7,False,False,False,Retained: entirely within boundary,True
+375047,0.236959502829395,travelled,7,False,True,False,Excluded: outside endpoint,False
+375236,0.42633073447936,travelled,3,False,False,False,Retained: entirely within boundary,True
+375241,1.05427512085825,travelled,4,False,True,False,Excluded: outside endpoint,False
+375243,0.339094934412235,travelled,7,False,False,False,Retained: entirely within boundary,True
+375742,0.323885454694716,travelled,4,False,False,False,Retained: entirely within boundary,True
+375826,0.280529155079995,travelled,5,False,True,False,Excluded: outside endpoint,False
+375881,0.541379952910287,travelled,4,False,True,False,Excluded: outside endpoint,False
+376211,0.437384958444013,travelled,4,False,False,False,Retained: entirely within boundary,True
+376252,0.354418482632221,travelled,5,False,False,False,Retained: entirely within boundary,True
+376385,0.596906053841892,travelled,7,False,False,False,Retained: entirely within boundary,True
+376600,0.673852067814681,travelled,5,False,False,False,Retained: entirely within boundary,True
+377122,0.485097624289472,travelled,4,False,True,False,Excluded: outside endpoint,False
+377407,0.278766315483526,travelled,6,False,False,False,Retained: entirely within boundary,True
+377483,0.4289038513955,travelled,8,False,False,False,Retained: entirely within boundary,True
+377943,0.712728682690011,travelled,2,False,False,False,Retained: entirely within boundary,True
+378989,0.43428557880556,travelled,4,False,False,False,Retained: entirely within boundary,True
+379100,0.924478440617256,travelled,2,False,False,False,Retained: entirely within boundary,True
+379115,0.285680269781002,travelled,2,False,False,False,Retained: entirely within boundary,True
+379124,0.317186894544007,travelled,4,False,False,False,Retained: entirely within boundary,True
+379127,0.331936055976958,at home all day,0,True,False,False,Retained: entirely within boundary,True
+379262,0.470262691849522,travelled,8,False,False,False,Retained: entirely within boundary,True
+379438,0.396954020625494,travelled,9,False,False,False,Retained: entirely within boundary,True
+379737,0.340959236726616,travelled,7,False,False,False,Retained: entirely within boundary,True
+380100,0.416233176075267,at home all day,0,True,False,False,Retained: entirely within boundary,True
+380477,0.630903991229273,travelled,11,False,True,False,Excluded: outside endpoint,False
+380821,0.329530906589172,travelled,8,False,False,False,Retained: entirely within boundary,True
+381525,0.388877737058301,travelled,6,False,False,False,Retained: entirely within boundary,True
+381779,0.454283117142215,travelled,2,False,True,False,Excluded: outside endpoint,False
+382250,0.256843249487633,travelled,7,False,False,False,Retained: entirely within boundary,True
+382374,0.371133647038029,travelled,6,False,False,False,Retained: entirely within boundary,True
+382529,0.680133670663389,at home all day,0,True,False,False,Retained: entirely within boundary,True
+382683,0.498696636488328,travelled,4,False,False,False,Retained: entirely within boundary,True
+382769,0.702347093920382,travelled,6,False,False,False,Retained: entirely within boundary,True
+382860,0.202918372505998,travelled,4,False,False,False,Retained: entirely within boundary,True
+382863,0.755448812531198,travelled,8,False,True,False,Excluded: outside endpoint,False
+382872,0.519724812457521,travelled,6,False,True,False,Excluded: outside endpoint,False
+383186,0.320014442254424,travelled,4,False,False,False,Retained: entirely within boundary,True
+383509,0.764755837463729,travelled,1,False,False,False,Retained: entirely within boundary,True
+383749,0.625035541665393,travelled,5,False,False,False,Retained: entirely within boundary,True
+383945,0.952660111567746,travelled,8,False,False,False,Retained: entirely within boundary,True
+384318,0.657136102550255,travelled,5,False,False,False,Retained: entirely within boundary,True
+384447,0.436262512241584,travelled,5,False,False,False,Retained: entirely within boundary,True
+384530,0.331601190448551,travelled,2,False,False,False,Retained: entirely within boundary,True
+384672,0.529504069330454,travelled,2,False,False,False,Retained: entirely within boundary,True
+384712,0.613451604654987,travelled,2,False,False,False,Retained: entirely within boundary,True
+385808,0.587729098246324,travelled,4,False,True,False,Excluded: outside endpoint,False
+386103,0.360940973992651,travelled,6,False,False,False,Retained: entirely within boundary,True
+386205,0.536545162306956,travelled,10,False,False,False,Retained: entirely within boundary,True
+386267,0.26276633652448,travelled,6,False,True,False,Excluded: outside endpoint,False
+386527,0.236959502829395,travelled,2,False,False,False,Retained: entirely within boundary,True
+386751,0.352429933188307,travelled,4,False,False,False,Retained: entirely within boundary,True
+386759,0.585077366070673,travelled,2,False,False,False,Retained: entirely within boundary,True
+387085,0.643556730649984,travelled,2,False,False,False,Retained: entirely within boundary,True
+387153,0.285526643835145,travelled,3,False,False,False,Retained: entirely within boundary,True
+387218,0.360385660039792,travelled,2,False,False,False,Retained: entirely within boundary,True
+387241,0.616395436931919,travelled,2,False,False,False,Retained: entirely within boundary,True
+387405,0.26353377687505,travelled,7,False,False,False,Retained: entirely within boundary,True
+387819,0.395632992264594,travelled,4,False,False,False,Retained: entirely within boundary,True
+387870,0.245243109079288,travelled,13,False,False,False,Retained: entirely within boundary,True
+387996,0.536433731586235,travelled,2,False,False,False,Retained: entirely within boundary,True
+388091,0.336264617617947,travelled,6,False,False,False,Retained: entirely within boundary,True
+388097,0.30145065117689,travelled,2,False,False,False,Retained: entirely within boundary,True
+388487,0.322369570747318,travelled,3,False,False,False,Retained: entirely within boundary,True
+388992,0.589179101553631,travelled,6,False,True,False,Excluded: outside endpoint,False
+389059,0.376931908281745,travelled,6,False,False,False,Retained: entirely within boundary,True
+389213,0.765740025043796,travelled,2,False,False,False,Retained: entirely within boundary,True
+389821,0.588428675581826,travelled,3,False,True,False,Excluded: outside endpoint,False
+391034,0.444867253188096,travelled,2,False,False,False,Retained: entirely within boundary,True
+391251,0.410016123306387,travelled,4,False,False,False,Retained: entirely within boundary,True
+391427,0.740799428569672,at home all day,0,True,False,False,Retained: entirely within boundary,True
+391589,0.595734806590062,travelled,4,False,False,False,Retained: entirely within boundary,True
+391645,0.392269161644381,travelled,6,False,False,False,Retained: entirely within boundary,True
+391755,0.215673187606946,travelled,1,False,False,False,Retained: entirely within boundary,True
+391862,1.08741945080458,travelled,2,False,False,False,Retained: entirely within boundary,True
+392439,0.394552570230851,travelled,4,False,False,False,Retained: entirely within boundary,True
+392445,0.255497560692521,travelled,1,False,False,False,Retained: entirely within boundary,True
+392456,0.206166989008237,travelled,5,False,False,False,Retained: entirely within boundary,True
+392492,0.259099368365571,travelled,4,False,False,False,Retained: entirely within boundary,True
+392637,0.776238173526655,travelled,5,False,False,False,Retained: entirely within boundary,True
+392665,0.38112819905996,travelled,7,False,False,False,Retained: entirely within boundary,True
+393213,0.461408637374944,travelled,4,False,False,False,Retained: entirely within boundary,True
+393306,0.315479672997465,at home all day,0,True,False,False,Retained: entirely within boundary,True
+393365,0.597822958447436,travelled,2,False,False,False,Retained: entirely within boundary,True
+393478,0.504123330291466,travelled,4,False,False,False,Retained: entirely within boundary,True
+393815,0.894008016241269,travelled,4,False,False,False,Retained: entirely within boundary,True
+393888,0.239326188262763,travelled,5,False,False,False,Retained: entirely within boundary,True
+394348,0.519181268769617,travelled,2,False,False,False,Retained: entirely within boundary,True
+394381,0.202918372505998,travelled,1,False,False,False,Retained: entirely within boundary,True
+394615,0.779567693000026,travelled,5,False,True,False,Excluded: outside endpoint,False
+394664,0.267765508516723,travelled,5,False,False,False,Retained: entirely within boundary,True
+395041,0.296769729755526,travelled,2,False,False,False,Retained: entirely within boundary,True
+395123,0.412385216678619,travelled,2,False,False,False,Retained: entirely within boundary,True
+395560,0.258439308446919,travelled,3,False,False,False,Retained: entirely within boundary,True
+395997,0.367200731864351,travelled,3,False,False,False,Retained: entirely within boundary,True
+396014,0.345031826363977,travelled,2,False,False,False,Retained: entirely within boundary,True
+396035,0.345031826363977,travelled,2,False,False,False,Retained: entirely within boundary,True
+396062,0.533034847092168,travelled,2,False,False,False,Retained: entirely within boundary,True
+396207,0.528093581013242,travelled,2,False,False,False,Retained: entirely within boundary,True
+396247,0.374125368886636,travelled,6,False,False,False,Retained: entirely within boundary,True
+396335,0.297304186237134,travelled,4,False,False,False,Retained: entirely within boundary,True
+396656,0.322022519885928,travelled,2,False,True,False,Excluded: outside endpoint,False
+396893,0.473211730548201,travelled,2,False,False,False,Retained: entirely within boundary,True
+397386,0.434778286548006,at home all day,0,True,False,False,Retained: entirely within boundary,True
+397394,0.412745080623947,travelled,6,False,False,False,Retained: entirely within boundary,True
+397863,0.441556786519527,travelled,3,False,False,False,Retained: entirely within boundary,True
+397908,0.43551851740931,travelled,6,False,True,False,Excluded: outside endpoint,False
+398088,0.29585586973705,travelled,4,False,True,False,Excluded: outside endpoint,False
+398367,0.563978438844766,travelled,2,False,False,False,Retained: entirely within boundary,True
+399187,0.587915574275421,travelled,6,False,False,False,Retained: entirely within boundary,True
+399230,0.332569367262191,travelled,6,False,False,False,Retained: entirely within boundary,True
+399245,0.285526643835145,travelled,9,False,False,False,Retained: entirely within boundary,True
+399386,0.342902305689169,travelled,5,False,False,False,Retained: entirely within boundary,True
+399765,0.230961224904451,travelled,5,False,False,False,Retained: entirely within boundary,True
+400290,0.347791917379794,travelled,7,False,True,False,Excluded: outside endpoint,False
+400310,0.542071496975405,travelled,6,False,False,False,Retained: entirely within boundary,True
+400569,0.494240911844695,travelled,5,False,False,False,Retained: entirely within boundary,True
+400618,0.648649806611202,travelled,3,False,False,False,Retained: entirely within boundary,True
+400654,0.553870334744574,at home all day,0,True,False,False,Retained: entirely within boundary,True
+400818,0.415123620920014,travelled,5,False,True,False,Excluded: outside endpoint,False
+400863,0.442425628864038,travelled,3,False,False,False,Retained: entirely within boundary,True
+400898,0.612175876263217,travelled,3,False,False,False,Retained: entirely within boundary,True
+401170,0.56619715640088,travelled,8,False,False,False,Retained: entirely within boundary,True
+401468,0.29936033710308,travelled,3,False,False,False,Retained: entirely within boundary,True
+401471,0.354218135197362,travelled,10,False,False,False,Retained: entirely within boundary,True
+401751,0.374982193476032,travelled,6,False,False,False,Retained: entirely within boundary,True
+401840,0.43428557880556,travelled,3,False,True,False,Excluded: outside endpoint,False
+402091,0.299868166308869,travelled,9,False,False,False,Retained: entirely within boundary,True
+402170,0.308319163801372,travelled,7,False,False,False,Retained: entirely within boundary,True
+402174,0.694862186118018,at home all day,0,True,False,False,Retained: entirely within boundary,True
+402431,0.435617127500144,travelled,4,False,False,False,Retained: entirely within boundary,True
+402575,0.526188996229825,at home all day,0,True,False,False,Retained: entirely within boundary,True
+403108,0.261152122883511,travelled,7,False,False,False,Retained: entirely within boundary,True
+403319,0.274660282199541,travelled,2,False,False,False,Retained: entirely within boundary,True
+403538,0.43731257451403,travelled,5,False,True,False,Excluded: outside endpoint,False
+403556,0.392463408954435,travelled,4,False,False,False,Retained: entirely within boundary,True
+403661,0.557403015017239,at home all day,0,True,False,False,Retained: entirely within boundary,True
+404027,0.392463408954435,travelled,4,False,False,False,Retained: entirely within boundary,True
+404089,0.345015291871377,travelled,4,False,False,False,Retained: entirely within boundary,True
+404234,0.347791917379794,travelled,6,False,False,False,Retained: entirely within boundary,True
+404616,0.455099085510642,travelled,5,False,False,False,Retained: entirely within boundary,True
+404704,0.29126182400226,travelled,5,False,False,False,Retained: entirely within boundary,True
+404925,0.29126182400226,travelled,4,False,False,False,Retained: entirely within boundary,True
+405036,0.639566155885202,travelled,5,False,False,False,Retained: entirely within boundary,True
+405448,0.410055311553482,travelled,6,False,False,False,Retained: entirely within boundary,True
+405553,0.808165850390011,travelled,2,False,False,False,Retained: entirely within boundary,True
+406215,0.29126182400226,travelled,4,False,False,False,Retained: entirely within boundary,True
+406806,0.418696615029029,travelled,7,False,False,False,Retained: entirely within boundary,True
+407143,0.808165850390011,travelled,2,False,False,False,Retained: entirely within boundary,True
+407903,0.357494586223007,travelled,4,False,False,False,Retained: entirely within boundary,True
+408043,0.30212060812216,travelled,6,False,False,False,Retained: entirely within boundary,True
+408056,0.236959502829395,travelled,6,False,False,False,Retained: entirely within boundary,True
+408381,0.35625264169278,travelled,3,False,False,False,Retained: entirely within boundary,True
+408576,0.333605350069879,travelled,4,False,False,False,Retained: entirely within boundary,True
+408743,0.329530906589172,travelled,4,False,False,False,Retained: entirely within boundary,True
+408770,0.210065709167605,travelled,5,False,False,False,Retained: entirely within boundary,True
+409059,0.732876236702089,travelled,11,False,False,False,Retained: entirely within boundary,True
+409178,0.459950526107028,travelled,3,False,True,False,Excluded: outside endpoint,False
+409661,0.606637084839271,travelled,4,False,False,False,Retained: entirely within boundary,True
+409816,0.442846405652347,travelled,4,False,False,False,Retained: entirely within boundary,True
+410747,0.28762211861148,travelled,4,False,False,False,Retained: entirely within boundary,True
+411042,0.461678448784823,travelled,3,False,False,False,Retained: entirely within boundary,True
+411118,1.00544224655625,at home all day,0,True,False,False,Retained: entirely within boundary,True
+411306,1.09689821616686,travelled,5,False,True,False,Excluded: outside endpoint,False
+411955,0.424117366638588,travelled,3,False,False,False,Retained: entirely within boundary,True
+412136,0.42187753233816,travelled,4,False,False,False,Retained: entirely within boundary,True
+412762,1.21760506106456,travelled,6,False,False,False,Retained: entirely within boundary,True
+412934,0.538049894734201,travelled,11,False,False,False,Retained: entirely within boundary,True
+413029,0.291526162379473,travelled,8,False,False,False,Retained: entirely within boundary,True
+413258,0.25598152671108,travelled,4,False,False,False,Retained: entirely within boundary,True
+413344,0.557403015017239,travelled,5,False,False,False,Retained: entirely within boundary,True
+413398,0.735742545718094,travelled,2,False,False,False,Retained: entirely within boundary,True
+413715,0.258439308446919,travelled,2,False,False,False,Retained: entirely within boundary,True
+414221,0.692220071690234,travelled,6,False,False,False,Retained: entirely within boundary,True
+414483,0.424274099686833,travelled,4,False,False,False,Retained: entirely within boundary,True
+414942,0.380762112041272,travelled,7,False,False,False,Retained: entirely within boundary,True
+415083,0.415123620920014,travelled,5,False,False,False,Retained: entirely within boundary,True
+415123,0.430894470562315,travelled,6,False,False,False,Retained: entirely within boundary,True
+415641,0.316089212997658,travelled,7,False,False,False,Retained: entirely within boundary,True
+415805,0.333605350069879,travelled,3,False,True,False,Excluded: outside endpoint,False
+416090,0.454900031177027,travelled,5,False,False,False,Retained: entirely within boundary,True
+416381,0.344566026205976,travelled,4,False,False,False,Retained: entirely within boundary,True
+416418,0.461954118503776,travelled,6,False,True,False,Excluded: outside endpoint,False
+416457,0.550462412630205,travelled,5,False,False,False,Retained: entirely within boundary,True
+417031,0.62407473965363,travelled,4,False,False,False,Retained: entirely within boundary,True
+417095,0.718038089584283,travelled,2,False,False,False,Retained: entirely within boundary,True
+417345,0.313478046476212,travelled,4,False,False,False,Retained: entirely within boundary,True
+417351,0.71930044281807,travelled,3,False,False,False,Retained: entirely within boundary,True
+417368,0.565307069452546,travelled,6,False,False,False,Retained: entirely within boundary,True
+417456,0.320014442254424,travelled,2,False,False,False,Retained: entirely within boundary,True
+417547,0.282451812122081,travelled,2,False,False,False,Retained: entirely within boundary,True
+417611,0.500746307422621,travelled,5,False,False,False,Retained: entirely within boundary,True
+418425,0.397799844615396,travelled,5,False,False,False,Retained: entirely within boundary,True
+418442,0.498696636488328,at home all day,0,True,False,False,Retained: entirely within boundary,True
+418446,0.401536972040041,travelled,3,False,False,False,Retained: entirely within boundary,True
+418567,1.15966293352498,travelled,2,False,False,False,Retained: entirely within boundary,True
+418792,0.557403015017239,at home all day,0,True,False,False,Retained: entirely within boundary,True
+419017,0.363845867909025,travelled,3,False,False,False,Retained: entirely within boundary,True
+419035,0.406272288170116,travelled,3,False,False,False,Retained: entirely within boundary,True
+419511,0.223087206504109,travelled,2,False,False,False,Retained: entirely within boundary,True
+421018,0.451452061058745,travelled,4,False,False,False,Retained: entirely within boundary,True
+421459,0.928815470916661,travelled,4,False,False,False,Retained: entirely within boundary,True
+422045,0.265991347093937,travelled,3,False,False,False,Retained: entirely within boundary,True
+422089,0.519655185775677,travelled,9,False,True,False,Excluded: outside endpoint,False
+422387,0.700751386678167,travelled,7,False,False,False,Retained: entirely within boundary,True
+422763,0.209859662442964,travelled,4,False,False,False,Retained: entirely within boundary,True
+423016,0.37675525546008,travelled,4,False,True,False,Excluded: outside endpoint,False
+423056,0.468211555874802,at home all day,0,True,False,False,Retained: entirely within boundary,True
+423064,0.319003733680406,travelled,5,False,True,False,Excluded: outside endpoint,False
+423222,0.290253860763984,travelled,2,False,False,False,Retained: entirely within boundary,True
+423626,0.305387020025899,travelled,5,False,False,False,Retained: entirely within boundary,True
+423648,0.458530626553816,travelled,2,False,False,False,Retained: entirely within boundary,True
+423764,0.294058346081714,travelled,2,False,False,False,Retained: entirely within boundary,True
+424276,0.342030796845523,travelled,2,False,False,False,Retained: entirely within boundary,True
+424335,0.346711040247022,travelled,5,False,False,False,Retained: entirely within boundary,True
+425245,0.552534061820598,travelled,4,False,False,False,Retained: entirely within boundary,True
+425945,0.538436122345684,travelled,4,False,False,False,Retained: entirely within boundary,True
+426413,0.578358589573789,travelled,3,False,False,False,Retained: entirely within boundary,True
+426500,0.674390047816792,travelled,5,False,False,False,Retained: entirely within boundary,True
+426547,1.3673533050141,travelled,2,False,False,False,Retained: entirely within boundary,True
+426922,0.212002633393203,travelled,5,False,False,False,Retained: entirely within boundary,True
+426982,0.392463408954435,travelled,4,False,False,False,Retained: entirely within boundary,True
+426990,0.461133047163412,travelled,6,False,False,False,Retained: entirely within boundary,True
+427071,0.214934240091097,travelled,4,False,False,False,Retained: entirely within boundary,True
+427244,0.216916054915574,travelled,3,False,False,False,Retained: entirely within boundary,True
+427571,0.89693067527463,travelled,4,False,False,False,Retained: entirely within boundary,True
+427989,0.222559001494896,travelled,3,False,False,False,Retained: entirely within boundary,True
+428278,0.413992417751608,travelled,4,False,False,False,Retained: entirely within boundary,True
+428363,0.424597953386524,travelled,8,False,False,False,Retained: entirely within boundary,True
+428570,0.39850646082616,travelled,2,False,False,False,Retained: entirely within boundary,True
+428883,0.44247426939254,travelled,7,False,False,False,Retained: entirely within boundary,True
+429111,0.333099831376149,travelled,2,False,False,False,Retained: entirely within boundary,True
+429504,0.291526162379473,travelled,6,False,True,False,Excluded: outside endpoint,False
+430386,0.292682913051364,travelled,4,False,True,False,Excluded: outside endpoint,False
+430543,0.713560088024728,at home all day,0,True,False,False,Retained: entirely within boundary,True
+430674,0.54426233766094,travelled,7,False,False,False,Retained: entirely within boundary,True
+430700,0.476416293701784,travelled,4,False,False,False,Retained: entirely within boundary,True
+430905,0.776939167358858,at home all day,0,True,False,False,Retained: entirely within boundary,True
+430979,0.381968491436464,travelled,3,False,False,False,Retained: entirely within boundary,True
+431045,0.345222657983949,travelled,4,False,False,False,Retained: entirely within boundary,True
+431064,0.468443409010754,travelled,9,False,False,False,Retained: entirely within boundary,True
+431390,0.396608638995546,travelled,10,False,False,False,Retained: entirely within boundary,True
+431653,0.351781444306628,travelled,2,False,False,False,Retained: entirely within boundary,True
+431847,0.613220901428947,travelled,5,False,True,False,Excluded: outside endpoint,False
+432070,0.668287785900373,travelled,4,False,False,False,Retained: entirely within boundary,True
+432601,0.32911999181508,travelled,4,False,True,False,Excluded: outside endpoint,False
+432899,0.683391522033458,travelled,7,False,False,False,Retained: entirely within boundary,True
+434009,0.31337602326572,travelled,3,False,False,False,Retained: entirely within boundary,True
+434108,0.424274099686833,travelled,4,False,False,False,Retained: entirely within boundary,True
+434228,0.285024303510414,travelled,4,False,False,False,Retained: entirely within boundary,True
+434599,0.378849455194492,travelled,5,False,True,False,Excluded: outside endpoint,False
+435001,0.332025985762428,travelled,4,False,False,False,Retained: entirely within boundary,True
+435328,0.373991732772532,travelled,2,False,False,False,Retained: entirely within boundary,True
+435450,0.679571415024746,at home all day,0,True,False,False,Retained: entirely within boundary,True
+435461,0.216916054915574,travelled,4,False,False,False,Retained: entirely within boundary,True
+435526,0.576725176608523,travelled,2,False,False,False,Retained: entirely within boundary,True
+435623,0.230564227716771,travelled,6,False,True,False,Excluded: outside endpoint,False
+436006,0.36424941058537,travelled,5,False,True,False,Excluded: outside endpoint,False
+436431,0.453125419699687,travelled,5,False,False,False,Retained: entirely within boundary,True
+436625,0.357706530607544,travelled,3,False,False,False,Retained: entirely within boundary,True
+436655,0.400265594164458,travelled,2,False,False,False,Retained: entirely within boundary,True
+436816,0.476961880579487,at home all day,0,True,False,False,Retained: entirely within boundary,True
+437008,0.47976595892531,travelled,4,False,False,False,Retained: entirely within boundary,True
+438046,0.384031715963153,travelled,3,False,False,False,Retained: entirely within boundary,True
+438627,0.273661864726519,travelled,11,False,False,False,Retained: entirely within boundary,True
+438727,0.416510522733326,travelled,6,False,False,False,Retained: entirely within boundary,True
+438732,0.526715422539139,travelled,4,False,False,False,Retained: entirely within boundary,True
+438779,0.536591697966915,travelled,3,False,False,False,Retained: entirely within boundary,True
+439092,0.418011009244399,travelled,3,False,True,False,Excluded: outside endpoint,False
+439131,0.799289244565841,at home all day,0,True,False,False,Retained: entirely within boundary,True
+439670,0.47208277699813,travelled,2,False,False,False,Retained: entirely within boundary,True
+442322,0.270285112426913,travelled,5,False,False,False,Retained: entirely within boundary,True
+443137,0.292930164939067,travelled,4,False,False,False,Retained: entirely within boundary,True
+443224,0.338700764605545,travelled,4,False,False,False,Retained: entirely within boundary,True
+443356,0.326591724631627,travelled,4,False,False,False,Retained: entirely within boundary,True
+443562,0.35872248569228,travelled,3,False,False,False,Retained: entirely within boundary,True
+444262,0.290414254653182,travelled,2,False,False,False,Retained: entirely within boundary,True
+444340,1.1483358209629,at home all day,0,True,False,False,Retained: entirely within boundary,True
+444854,0.439611191585427,at home all day,0,True,False,False,Retained: entirely within boundary,True
+444980,0.398214886694229,travelled,3,False,False,False,Retained: entirely within boundary,True
+445144,0.37267979265701,travelled,4,False,True,False,Excluded: outside endpoint,False
+445245,0.374404945537837,travelled,1,False,False,False,Retained: entirely within boundary,True
+445992,0.480094134890047,travelled,2,False,False,False,Retained: entirely within boundary,True
+446798,0.380523078725298,travelled,3,False,False,False,Retained: entirely within boundary,True
+447000,0.371395881372715,travelled,2,False,False,False,Retained: entirely within boundary,True
+447244,0.220472631747011,travelled,5,False,False,False,Retained: entirely within boundary,True
+447271,0.271341139305241,at home all day,0,True,False,False,Retained: entirely within boundary,True
+447460,0.255947456538134,travelled,1,False,False,False,Retained: entirely within boundary,True
+447654,0.190900392790078,travelled,2,False,False,False,Retained: entirely within boundary,True
+447714,0.400714368203956,travelled,4,False,False,False,Retained: entirely within boundary,True
+448408,0.264714035203779,travelled,2,False,False,False,Retained: entirely within boundary,True
+448885,0.30028177876614,travelled,11,False,False,False,Retained: entirely within boundary,True
+449169,0.321854473103946,travelled,6,False,False,False,Retained: entirely within boundary,True
+449350,0.410970007578695,travelled,3,False,True,False,Excluded: outside endpoint,False
+449399,1.14906788008852,travelled,9,False,False,False,Retained: entirely within boundary,True
+449755,0.430098230700476,travelled,5,False,False,False,Retained: entirely within boundary,True
+450042,1.28606023862263,travelled,2,False,False,False,Retained: entirely within boundary,True
+451017,1.5463041739573,travelled,2,False,False,False,Retained: entirely within boundary,True
+451058,0.467047541294161,travelled,2,False,False,False,Retained: entirely within boundary,True
+451153,0.332280005411278,travelled,6,False,True,False,Excluded: outside endpoint,False
+451810,0.696982027739433,travelled,6,False,True,False,Excluded: outside endpoint,False
+451903,0.235651255834301,travelled,2,False,False,False,Retained: entirely within boundary,True
+452617,0.400714368203956,travelled,8,False,False,False,Retained: entirely within boundary,True
+452645,0.786920541841096,travelled,3,False,False,False,Retained: entirely within boundary,True
+452805,0.324601710345517,travelled,7,False,True,False,Excluded: outside endpoint,False
+452848,0.28242022982738,travelled,2,False,False,False,Retained: entirely within boundary,True
+453006,0.346153907852135,travelled,7,False,False,False,Retained: entirely within boundary,True
+453456,0.264383491859523,travelled,2,False,False,False,Retained: entirely within boundary,True
+453708,0.313512378806781,travelled,9,False,False,False,Retained: entirely within boundary,True
+453829,0.590524189791315,travelled,2,False,False,False,Retained: entirely within boundary,True
+453843,0.19451041403248,travelled,3,False,False,False,Retained: entirely within boundary,True
+453981,0.416629875111563,travelled,6,False,False,False,Retained: entirely within boundary,True
+454110,1.08383358043674,travelled,2,False,False,False,Retained: entirely within boundary,True
+454499,0.461929385723538,at home all day,0,True,False,False,Retained: entirely within boundary,True
+454944,0.954500392933752,travelled,4,False,False,False,Retained: entirely within boundary,True
+455014,0.724716699349531,travelled,4,False,False,False,Retained: entirely within boundary,True
+455405,0.466006051362709,travelled,6,False,False,False,Retained: entirely within boundary,True
+455444,0.218458322893027,travelled,5,False,False,False,Retained: entirely within boundary,True
+455522,0.574231151266396,travelled,3,False,False,False,Retained: entirely within boundary,True
+455690,0.380523078725298,travelled,8,False,False,False,Retained: entirely within boundary,True
+456077,0.31504713000712,travelled,9,False,False,False,Retained: entirely within boundary,True
+456538,0.189156265419804,travelled,6,False,False,False,Retained: entirely within boundary,True
+456811,0.451452061058745,travelled,6,False,False,False,Retained: entirely within boundary,True
+456939,0.189156265419804,travelled,6,False,False,False,Retained: entirely within boundary,True
+457096,0.256990775341711,travelled,12,False,False,False,Retained: entirely within boundary,True
+458279,0.458379359933947,travelled,2,False,False,False,Retained: entirely within boundary,True
+458393,0.661695651393209,at home all day,0,True,False,False,Retained: entirely within boundary,True
+458559,0.252255686820272,travelled,2,False,False,False,Retained: entirely within boundary,True
+458563,0.371395881372715,travelled,4,False,True,False,Excluded: outside endpoint,False
+459169,0.601094653375264,travelled,4,False,True,False,Excluded: outside endpoint,False
+459811,0.668675956641532,travelled,2,False,True,False,Excluded: outside endpoint,False
+460063,0.268760659964177,travelled,4,False,False,False,Retained: entirely within boundary,True
+460121,0.319926198062032,at home all day,0,True,False,False,Retained: entirely within boundary,True
+460294,0.399554028092172,at home all day,0,True,False,False,Retained: entirely within boundary,True
+461318,0.250998886865016,travelled,2,False,False,False,Retained: entirely within boundary,True
+461899,0.215421795691172,travelled,3,False,False,False,Retained: entirely within boundary,True
+462293,0.398252718786292,travelled,7,False,False,False,Retained: entirely within boundary,True
+462903,0.204396267825038,travelled,4,False,False,False,Retained: entirely within boundary,True
+463246,0.287760936643432,travelled,2,False,True,False,Excluded: outside endpoint,False
+463414,0.466188634990201,travelled,4,False,False,False,Retained: entirely within boundary,True
+464035,0.356771881108726,travelled,2,False,False,False,Retained: entirely within boundary,True
+464038,0.737434320783003,travelled,4,False,False,False,Retained: entirely within boundary,True
+464441,0.22689861906926,travelled,2,False,False,False,Retained: entirely within boundary,True
+464625,0.371395881372715,travelled,5,False,True,False,Excluded: outside endpoint,False
+465236,0.544695603859404,at home all day,0,True,False,False,Retained: entirely within boundary,True
+465819,0.32911999181508,travelled,3,False,True,False,Excluded: outside endpoint,False
+466075,0.275353402632384,travelled,4,False,False,False,Retained: entirely within boundary,True
+466345,0.542178962969967,travelled,4,False,False,False,Retained: entirely within boundary,True
+466745,0.769840801310349,travelled,9,False,False,False,Retained: entirely within boundary,True
+467085,0.397087083294412,travelled,9,False,False,False,Retained: entirely within boundary,True
+467255,0.324822152734011,travelled,4,False,False,False,Retained: entirely within boundary,True
+467803,0.414393249292654,travelled,2,False,False,False,Retained: entirely within boundary,True
+468196,0.32911999181508,travelled,4,False,False,False,Retained: entirely within boundary,True
+468273,0.484090085576524,travelled,6,False,False,False,Retained: entirely within boundary,True
+468535,0.333645338523515,at home all day,0,True,False,False,Retained: entirely within boundary,True
+468657,0.545836380141574,travelled,4,False,False,False,Retained: entirely within boundary,True
+468717,0.703834846377861,travelled,6,False,False,False,Retained: entirely within boundary,True
+470071,0.316563442285013,travelled,5,False,False,False,Retained: entirely within boundary,True
+470277,0.335719798672067,travelled,3,False,True,False,Excluded: outside endpoint,False
+470436,0.272777293488508,travelled,2,False,True,False,Excluded: outside endpoint,False
+471039,0.495781811455711,travelled,2,False,False,False,Retained: entirely within boundary,True
+471147,0.287760936643432,travelled,5,False,False,False,Retained: entirely within boundary,True
+471205,0.57254763591231,travelled,5,False,False,False,Retained: entirely within boundary,True
+471696,0.313512378806781,travelled,4,False,False,False,Retained: entirely within boundary,True
+471863,0.19451041403248,travelled,6,False,False,False,Retained: entirely within boundary,True
+471900,0.472433332721762,travelled,3,False,False,False,Retained: entirely within boundary,True
+472304,0.32911999181508,travelled,3,False,False,False,Retained: entirely within boundary,True
+472710,0.189156265419804,travelled,2,False,False,False,Retained: entirely within boundary,True
+472832,0.20628091660632,travelled,6,False,False,False,Retained: entirely within boundary,True
+472854,0.784726412830474,travelled,4,False,False,False,Retained: entirely within boundary,True
+472856,0.361646043159813,travelled,3,False,False,False,Retained: entirely within boundary,True
+473416,0.326858434382302,travelled,5,False,False,False,Retained: entirely within boundary,True
+473511,0.247060920622345,travelled,10,False,False,False,Retained: entirely within boundary,True
+473623,0.370485763425194,travelled,4,False,False,False,Retained: entirely within boundary,True
+473640,0.837403368399962,at home all day,0,True,False,False,Retained: entirely within boundary,True
+473716,0.286289843472455,travelled,2,False,False,False,Retained: entirely within boundary,True
+474190,0.480701877075475,at home all day,0,True,False,False,Retained: entirely within boundary,True
+474454,0.470302889784058,travelled,4,False,True,False,Excluded: outside endpoint,False
+474842,0.321294489362473,travelled,2,False,False,False,Retained: entirely within boundary,True
+475055,0.661695651393209,travelled,2,False,False,False,Retained: entirely within boundary,True
+475059,0.594608119145813,travelled,2,False,False,False,Retained: entirely within boundary,True
+475364,0.381284096079814,travelled,4,False,False,False,Retained: entirely within boundary,True
+475547,0.510948454401648,travelled,4,False,False,False,Retained: entirely within boundary,True
+475742,0.471759936214282,travelled,3,False,False,False,Retained: entirely within boundary,True
+476843,0.513840918868597,travelled,2,False,True,False,Excluded: outside endpoint,False
+476980,0.299823674760166,travelled,3,False,False,False,Retained: entirely within boundary,True
+476994,1.09285714944805,travelled,4,False,False,False,Retained: entirely within boundary,True
+477167,0.281313537864313,travelled,2,False,False,False,Retained: entirely within boundary,True
+477501,0.428760638574349,travelled,2,False,True,False,Excluded: outside endpoint,False
+477739,0.634822872831559,at home all day,0,True,False,False,Retained: entirely within boundary,True
+478007,0.190900392790078,travelled,4,False,False,False,Retained: entirely within boundary,True
+478137,0.387010408756824,travelled,6,False,False,False,Retained: entirely within boundary,True
+478196,0.463080919027345,travelled,2,False,False,False,Retained: entirely within boundary,True
+478538,0.321636044747994,travelled,2,False,False,False,Retained: entirely within boundary,True
+478541,0.231649456411642,travelled,4,False,False,False,Retained: entirely within boundary,True
+478881,0.285024303510414,travelled,2,False,False,False,Retained: entirely within boundary,True
+479099,0.324601710345517,at home all day,0,True,False,False,Retained: entirely within boundary,True
+479592,0.313512378806781,travelled,2,False,False,False,Retained: entirely within boundary,True
+479755,0.255947456538134,travelled,6,False,True,False,Excluded: outside endpoint,False
+480255,0.458899087676185,travelled,1,False,False,False,Retained: entirely within boundary,True
+480380,0.677980549510572,travelled,2,False,True,False,Excluded: outside endpoint,False
+480469,0.593336487202772,travelled,5,False,False,False,Retained: entirely within boundary,True
+480560,0.277935647589023,travelled,1,False,False,False,Retained: entirely within boundary,True
+480749,0.237861042585506,travelled,6,False,True,False,Excluded: outside endpoint,False
+481257,0.374820360707149,travelled,2,False,False,False,Retained: entirely within boundary,True
+481338,0.537025464008339,travelled,3,False,False,False,Retained: entirely within boundary,True
+481378,0.348886588228467,travelled,4,False,False,False,Retained: entirely within boundary,True
+481529,0.373991732772532,travelled,3,False,False,False,Retained: entirely within boundary,True
+481804,0.528726716095589,at home all day,0,True,False,False,Retained: entirely within boundary,True
+481965,0.482639858208803,travelled,4,False,True,False,Excluded: outside endpoint,False
+482475,0.231637727541803,travelled,6,False,False,False,Retained: entirely within boundary,True
+482505,0.370485763425194,travelled,2,False,False,False,Retained: entirely within boundary,True
+483231,0.414393249292654,travelled,2,False,False,False,Retained: entirely within boundary,True
+483949,0.798370218376634,travelled,8,False,False,False,Retained: entirely within boundary,True
+484468,0.357045533036288,travelled,5,False,True,False,Excluded: outside endpoint,False
+484612,0.460881789249526,travelled,3,False,False,False,Retained: entirely within boundary,True
+484846,0.328814552700063,travelled,5,False,False,False,Retained: entirely within boundary,True
+485074,0.643649054227318,at home all day,0,True,False,False,Retained: entirely within boundary,True
+485493,0.255947456538134,travelled,10,False,False,False,Retained: entirely within boundary,True
+485537,0.321636044747994,travelled,7,False,True,False,Excluded: outside endpoint,False
+486095,0.422171820086523,travelled,1,False,False,False,Retained: entirely within boundary,True
+486117,0.704848294790391,travelled,2,False,False,False,Retained: entirely within boundary,True
+486473,0.451452061058745,travelled,5,False,False,False,Retained: entirely within boundary,True
+486917,0.465131379086303,travelled,2,False,False,False,Retained: entirely within boundary,True
+486969,0.491683133984174,travelled,4,False,True,False,Excluded: outside endpoint,False
+487155,1.12227669826307,travelled,2,False,False,False,Retained: entirely within boundary,True
+488479,0.224854655005101,at home all day,0,True,False,False,Retained: entirely within boundary,True
+488494,0.740929313057856,travelled,2,False,False,False,Retained: entirely within boundary,True
+488573,0.62811688014574,travelled,2,False,False,False,Retained: entirely within boundary,True
+488588,0.250008161112729,travelled,3,False,False,False,Retained: entirely within boundary,True
+488929,0.346637776595495,at home all day,0,True,False,False,Retained: entirely within boundary,True
+488967,0.332280005411278,travelled,2,False,False,False,Retained: entirely within boundary,True
+489144,0.544923394587214,at home all day,0,True,False,False,Retained: entirely within boundary,True
+489150,0.388197092824576,travelled,3,False,False,False,Retained: entirely within boundary,True
+489212,0.247060920622345,travelled,8,False,False,False,Retained: entirely within boundary,True
+490103,0.418214188591407,travelled,1,False,False,False,Retained: entirely within boundary,True
+490168,0.578399140160105,travelled,4,False,True,False,Excluded: outside endpoint,False
+490658,0.326469306538261,travelled,2,False,False,False,Retained: entirely within boundary,True
+490800,0.522844807170597,travelled,8,False,True,False,Excluded: outside endpoint,False
+491175,0.400050001191069,travelled,4,False,False,False,Retained: entirely within boundary,True
+491250,0.319320728361132,travelled,4,False,False,False,Retained: entirely within boundary,True
+491346,0.27271333278867,travelled,6,False,False,False,Retained: entirely within boundary,True
+491541,0.270285112426913,travelled,7,False,False,False,Retained: entirely within boundary,True
+491906,1.26354331993475,travelled,6,False,False,False,Retained: entirely within boundary,True
+492223,0.556875454542353,travelled,8,False,False,False,Retained: entirely within boundary,True
+492358,0.290983989354129,travelled,5,False,False,False,Retained: entirely within boundary,True
+492432,0.242508790967965,travelled,2,False,False,False,Retained: entirely within boundary,True
+492694,0.931573567579943,travelled,2,False,False,False,Retained: entirely within boundary,True
+493469,0.683363965827999,travelled,2,False,False,False,Retained: entirely within boundary,True
+493773,0.225581567001148,travelled,4,False,False,False,Retained: entirely within boundary,True
+493864,0.311735252463741,travelled,5,False,False,False,Retained: entirely within boundary,True
+494164,0.447384707797518,travelled,8,False,False,False,Retained: entirely within boundary,True
+494228,0.456669411720784,travelled,3,False,False,False,Retained: entirely within boundary,True
+494242,0.374820360707149,at home all day,0,True,False,False,Retained: entirely within boundary,True
+494280,0.347053384694773,travelled,5,False,False,False,Retained: entirely within boundary,True
+494902,0.341608402326912,travelled,4,False,False,False,Retained: entirely within boundary,True
+495000,0.290414254653182,at home all day,0,True,False,False,Retained: entirely within boundary,True
+495290,0.336344574542604,travelled,3,False,False,False,Retained: entirely within boundary,True
+495390,0.315366095964974,travelled,1,False,False,False,Retained: entirely within boundary,True
+496024,0.713706564119083,travelled,4,False,True,False,Excluded: outside endpoint,False
+496052,0.344566026205976,travelled,4,False,True,False,Excluded: outside endpoint,False
+496614,0.236018112017425,travelled,4,False,False,False,Retained: entirely within boundary,True
+496841,0.238194332023335,travelled,2,False,False,False,Retained: entirely within boundary,True
+497039,0.66855433809496,travelled,6,False,True,False,Excluded: outside endpoint,False
+497118,0.81163272230049,travelled,9,False,False,False,Retained: entirely within boundary,True
+497122,1.09285714944805,travelled,4,False,False,False,Retained: entirely within boundary,True
+497368,0.350382017622379,travelled,2,False,False,False,Retained: entirely within boundary,True
+497464,0.433361087664793,travelled,1,False,False,False,Retained: entirely within boundary,True
+497659,0.331763523970632,travelled,4,False,False,False,Retained: entirely within boundary,True
+498907,0.466914750569054,travelled,2,False,False,False,Retained: entirely within boundary,True
+499160,0.758627318800959,travelled,5,False,False,False,Retained: entirely within boundary,True
+499371,0.242508790967965,at home all day,0,True,False,False,Retained: entirely within boundary,True
+499538,0.483237498237684,travelled,6,False,False,False,Retained: entirely within boundary,True
+499701,0.30357810193562,travelled,8,False,False,False,Retained: entirely within boundary,True

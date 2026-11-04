@@ -24,7 +24,14 @@
   "day_type_evidence": "",
   "weekday_filter_verified": false,
   "comparison_min_age": 6,
+  "age_scope_confirmed": true,
+  "age_scope_basis": "User-approved age >= 6; not independent survey-universe verification",
+  "comparison_weights": {
+    "Mikrozensus": "WP",
+    "MATSim": "unit sample counts"
+  },
   "provisional": true,
+  "day_scope_rule": "Whole person-day: all non-stage locations inside; no outside/border proxy; unknown geography and unresolved day status excluded; endpoints only, not routes",
   "purpose_mapping": {
     "home_secondary": "home",
     "work_secondary": "work",
@@ -39,20 +46,15 @@
     "input_persons": 28160,
     "invalid_home_coordinates": 3220,
     "residents_inside_boundary": 17780,
+    "entirely_within_boundary_persons": 14504,
     "home_filter_disagreements_all_persons": 0,
+    "age_eligible_residents": 13696,
     "at_home_all_day": 2459,
-    "review_persons": 6,
-    "selected_plan_activities_including_stages": 170749,
-    "non_stage_activities": 80265,
-    "trips": 62485,
-    "legs": 152969,
-    "invalid_activity_coordinates": 0,
-    "age_eligible_residents": 16972
-  },
-  "age_scope_confirmed": true,
-  "age_scope_basis": "User-approved age >= 6; not independent survey-universe verification",
-  "comparison_weights": {
-    "Mikrozensus": "WP",
-    "MATSim": "unit sample counts"
+    "review_persons": 0,
+    "selected_plan_activities_including_stages": 132834,
+    "non_stage_activities": 62756,
+    "trips": 48252,
+    "legs": 118330,
+    "invalid_activity_coordinates": 0
   }
 }
