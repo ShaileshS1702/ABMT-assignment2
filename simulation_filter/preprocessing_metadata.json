@@ -39,9 +39,9 @@
     "shop": "shopping"
   },
   "selected_plan_only": true,
-  "python_version": "3.12.12",
-  "pandas_version": "3.0.2",
-  "geopandas_version": "1.1.1",
+  "python_version": "3.12.11",
+  "pandas_version": "3.0.6",
+  "geopandas_version": "1.2.0",
   "counts": {
     "input_persons": 28160,
     "invalid_home_coordinates": 3220,
