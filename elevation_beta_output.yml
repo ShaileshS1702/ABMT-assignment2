@@ -1,7 +1,7 @@
-# Estimert i part5_bike_elevation_beta.ipynb (mikrofolketelling MZMV 2015, Neuchatel)
-# Signert form: netto hoydeforskjell har ingen dokumentert ytterligere effekt
-# utover gradientbasert sykkelruting (som allerede er aktiv i scenariet).
+# Estimated in part5_bike_elevation_beta_en.ipynb (microcensus MZMV 2015, Neuchatel)
+# Signed form: the net elevation difference has no documented additional effect
+# beyond gradient-based bike routing (which is already active in the scenario).
 bike.betaElevation_u: 0.0
 elevationScale_m: 100.0
-# Alternativ (konservativ ikke-null demonstrationsverdi, jf. Spes C):
+# Alternative (conservative non-zero demonstration value, cf. Spec C):
 # bike.betaElevation_u: -0.3
